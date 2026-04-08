@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Coupa Full Automation Suite" verbose="1" parallel="none">
+
+  <test name="Supplier Tests">
+    <classes>
+      <class name="supplier.SupplierTest"/>
+    </classes>
+  </test>
+
+  <test name="Requisition Tests">
+    <classes>
+      <class name="requisition.RequisitionTest"/>
+    </classes>
+  </test>
+
+  <test name="Good Receipt Tests">
+    <classes>
+      <class name="goodreceipt.GoodReceiptTest"/>
+    </classes>
+  </test>
+
+  <test name="Purchase Order Tests">
+    <classes>
+      <class name="purchaseorder.PurchaseOrderTest"/>
+    </classes>
+  </test>
+
+  <test name="Invoice Tests">
+    <classes>
+      <class name="invoice.InvoiceTest"/>
+    </classes>
+  </test>
+
+  <test name="Approvals Tests">
+    <classes>
+      <class name="approvals.ApprovalsTest"/>
+    </classes>
+  </test>
+
+  <test name="System Admin Tests">
+    <classes>
+      <class name="admin.SystemAdminTest"/>
+    </classes>
+  </test>
+
+  <test name="End-to-End Tests">
+    <classes>
+      <class name="e2e.EndToEndTest1"/>
+      <class name="e2e.EndToEndTest2"/>
+      <class name="e2e.EndToEndTest3"/>
+    </classes>
+  </test>
+
+</suite>

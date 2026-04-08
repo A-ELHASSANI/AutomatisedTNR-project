@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-03T16:30:25 WEST" name="Default suite" finished-at="2026-04-03T16:30:55 WEST" duration-ms="29771">
+    <groups>
+    </groups>
+    <test started-at="2026-04-03T16:30:25 WEST" name="Default test" finished-at="2026-04-03T16:30:55 WEST" duration-ms="29771">
+      <class name="test.CoupaTest">
+        <test-method signature="testCoupaLogin()[pri:0, instance:test.CoupaTest@73a1e9a9]" started-at="2026-04-03T16:30:25 WEST" name="testCoupaLogin" finished-at="2026-04-03T16:30:55 WEST" duration-ms="29730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCoupaLogin -->
+      </class> <!-- test.CoupaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
