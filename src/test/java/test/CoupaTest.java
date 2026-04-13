@@ -3,7 +3,7 @@ package test;
 import org.testng.annotations.Test;
 
 import base.BasePage;
-import pages.E2E.EndToEnd2.LoginPage;
+import pages.common.LoginPage;
 
 public class CoupaTest extends BasePage {
 

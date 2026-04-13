@@ -12,12 +12,18 @@ public class RequisitionTablePage {
 	private WebDriver driver;
 	private WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
 	private By requestsMenu = By.linkText("Requests");
+//	private By requisitionRow = By.xpath(
+//			"//tr[.//td[contains(@class,'requested_by') and contains(text(),'Anas ELHASSANI')] and .//span[text()='104.00']]");
 	private By requisitionRow = By.xpath(
-			"//tr[.//td[contains(@class,'requested_by') and contains(text(),'Anas ELHASSANI')] and .//span[text()='100.00']]");
-
+			"//tr[" +
+			".//td[contains(@class,'requested_by') and contains(text(),'Anas ELHASSANI')] " +
+			"and .//span[text()='108.00'] " +
+			"and .//td[contains(.,'Ordered')]" +
+			"]");
 	private By receiveButton = By.cssSelector("img[id^='receive_requisition_']");
 	private By receiptDateField = By.cssSelector("input[aria-label='Date']");
 	private By massActionCheckbox = By.id("mass_action_cb");
+	private By firstRow = By.cssSelector("#receive_req_order_line_tbody tr:first-child");
 	private By submitButton = By.id("receive_button");
 
 
@@ -61,6 +67,22 @@ public class RequisitionTablePage {
 	public void receiveTruckIcon() {
 		openRequests();
 		clickReceiveForReq();
+	}
+	
+	public void receiptPartially() {
+		WebElement row = wait.until(
+			    ExpectedConditions.visibilityOfElementLocated(firstRow)
+			    
+			);
+		WebElement checkbox = row.findElement(By.cssSelector("input.qr-cb"));
+		if (!checkbox.isSelected()) {
+			checkbox.click();
+		}
+	}
+	
+	public void submitReceiptionForOneLine() {
+		receiptPartially();
+		wait.until(ExpectedConditions.elementToBeClickable(submitButton)).click();		
 	}
 	
 	public void submitReceiption() {

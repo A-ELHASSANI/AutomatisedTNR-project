@@ -1,0 +1,1042 @@
+2026-04-08 16:13:04.130 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.138 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-08 16:13:04.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-04-08 16:13:04.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2026-04-08 16:13:04.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.163 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.163 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.166 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.169 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.169 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.169 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:13:04.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:13:04.179 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anas.elhassani\AppData\Local\Temp\testng-eclipse-1906305826\testng-customsuite.xml
+
+2026-04-08 16:13:04.200 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-04-08 16:13:06.591 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-08 16:13:06.630 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-08 16:13:11.167 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-08 16:13:26.960 [main] INFO  base.BasePage - Browser closed
+2026-04-08 16:13:27.478 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@66749eea: 93 ms
+2026-04-08 16:13:27.496 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@79627d27: 17 ms
+2026-04-08 16:13:27.507 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5c18d6d4: 11 ms
+2026-04-08 16:13:27.515 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@63f40ca0: 8 ms
+2026-04-08 16:13:27.524 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@45592af7: 9 ms
+2026-04-08 16:13:27.525 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@77b5148c: 0 ms
+2026-04-08 16:16:30.132 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.138 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.140 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.148 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-04-08 16:16:30.155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2026-04-08 16:16:30.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.158 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.158 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.158 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.163 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:16:30.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:16:30.170 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anas.elhassani\AppData\Local\Temp\testng-eclipse--1993834122\testng-customsuite.xml
+
+2026-04-08 16:16:30.186 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-04-08 16:16:30.677 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-08 16:16:30.704 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-08 16:16:33.567 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-08 16:16:42.687 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-08 16:16:45.691 [main] INFO  base.BasePage - Logged in as TEMP-AELHA
+2026-04-08 16:16:56.488 [main] INFO  base.BasePage - Acting as user: Carole Fabert
+2026-04-08 16:17:14.386 [main] INFO  base.BasePage - Browser closed
+2026-04-08 16:17:14.950 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3bc69ce9: 95 ms
+2026-04-08 16:17:14.969 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3aed69dd: 19 ms
+2026-04-08 16:17:14.979 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@67f63d26: 10 ms
+2026-04-08 16:17:14.988 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1ca610a0: 8 ms
+2026-04-08 16:17:14.998 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@43f03c23: 9 ms
+2026-04-08 16:17:14.999 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7a1b8a46: 1 ms
+2026-04-08 16:23:50.787 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-08 16:23:50.792 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.795 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.795 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.796 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.797 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.798 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.798 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.805 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-04-08 16:23:50.811 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-04-08 16:23:50.813 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.815 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-08 16:23:50.816 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.816 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.816 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.817 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.818 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.819 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.819 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.820 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.822 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.822 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.822 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.822 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.823 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-08 16:23:50.823 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.824 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.824 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.824 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:23:50.825 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:23:50.829 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anas.elhassani\AppData\Local\Temp\testng-eclipse--936704488\testng-customsuite.xml
+
+2026-04-08 16:23:50.845 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-04-08 16:23:51.314 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-08 16:23:51.340 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-08 16:23:54.432 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-08 16:23:54.716 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-08 16:23:57.728 [main] INFO  base.BasePage - Logged in as TEMP-AELHA
+2026-04-08 16:24:16.080 [main] INFO  base.BasePage - Acting as user: Carole Fabert
+2026-04-08 16:24:21.070 [main] INFO  base.BasePage - Browser closed
+2026-04-08 16:24:21.464 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@429aeac1: 72 ms
+2026-04-08 16:24:21.466 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@8bd076a: 2 ms
+2026-04-08 16:24:21.474 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4215e133: 8 ms
+2026-04-08 16:24:21.481 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@467b0f6e: 6 ms
+2026-04-08 16:24:21.489 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@ca8ef3a: 8 ms
+2026-04-08 16:24:21.490 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@17043b04: 0 ms
+2026-04-08 16:39:38.954 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.961 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-04-08 16:39:38.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:39:38.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:39:38.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.966 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:39:38.970 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-04-08 16:39:38.980 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2026-04-08 16:39:38.981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:39:38.981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:39:38.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:39:38.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:39:38.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-08 16:39:38.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:39:38.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:39:38.989 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-04-08 16:39:38.995 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.995 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:39:38.996 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:39:38.996 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:39:39.000 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anas.elhassani\AppData\Local\Temp\testng-eclipse--214734951\testng-customsuite.xml
+
+2026-04-08 16:39:39.018 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-04-08 16:39:39.571 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-08 16:39:39.606 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-08 16:39:43.631 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-08 16:39:43.919 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-08 16:39:46.932 [main] INFO  base.BasePage - Logged in as TEMP-AELHA
+2026-04-08 16:40:05.773 [main] INFO  base.BasePage - Acting as user: Carole Fabert
+2026-04-08 16:40:25.882 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-08 16:40:25.896 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-08 16:40:28.185 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-08 16:40:36.626 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-08 16:40:39.641 [main] INFO  base.BasePage - Logged in as TEMP-AELHA
+2026-04-08 16:40:48.884 [main] INFO  base.BasePage - Acting as user: Carole Fabert
+2026-04-08 16:40:51.083 [main] INFO  base.BasePage - Browser closed
+2026-04-08 16:40:51.429 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7aaad0: 79 ms
+2026-04-08 16:40:51.445 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@324b6a56: 16 ms
+2026-04-08 16:40:51.460 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6fa02932: 14 ms
+2026-04-08 16:40:51.469 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@592ca48c: 9 ms
+2026-04-08 16:40:51.476 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@677ce519: 7 ms
+2026-04-08 16:40:51.476 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3e26482: 0 ms
+2026-04-08 16:43:09.592 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-08 16:43:09.600 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-04-08 16:43:09.603 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.603 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.605 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.605 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.613 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-04-08 16:43:09.625 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2026-04-08 16:43:09.625 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.627 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.627 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.628 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.628 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.628 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.628 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.631 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.631 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.631 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.631 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.632 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-08 16:43:09.636 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-04-08 16:43:09.637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-08 16:43:09.637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-08 16:43:09.645 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anas.elhassani\AppData\Local\Temp\testng-eclipse--1717316799\testng-customsuite.xml
+
+2026-04-08 16:43:09.664 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-04-08 16:43:10.254 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-08 16:43:10.273 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-08 16:43:13.592 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-08 16:43:24.607 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-08 16:43:27.614 [main] INFO  base.BasePage - Logged in as TEMP-AELHA
+2026-04-08 16:43:39.193 [main] INFO  base.BasePage - Acting as user: Carole Fabert
+2026-04-08 16:43:54.582 [main] INFO  base.BasePage - Acting as user: CYRIL PLANCHE
+2026-04-08 16:43:55.078 [main] INFO  base.BasePage - Browser closed
+2026-04-08 16:43:55.577 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1e3ff233: 97 ms
+2026-04-08 16:43:55.578 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1150d471: 1 ms
+2026-04-08 16:43:55.589 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@13bdf540: 11 ms
+2026-04-08 16:43:55.598 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@ea04cab: 8 ms
+2026-04-08 16:43:55.606 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@285583d4: 7 ms
+2026-04-08 16:43:55.606 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1039bfc4: 0 ms
+2026-04-09 16:17:04.294 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-09 16:17:04.300 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-09 16:17:04.301 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.302 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.302 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.302 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.303 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.303 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.309 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-04-09 16:17:04.318 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2026-04-09 16:17:04.320 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.320 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.320 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.320 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.321 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.321 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.322 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.322 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.322 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.323 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.325 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.325 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.325 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.325 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.326 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.327 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.327 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.328 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.328 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-09 16:17:04.328 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-09 16:17:04.335 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anas.elhassani\AppData\Local\Temp\testng-eclipse--162001385\testng-customsuite.xml
+
+2026-04-09 16:17:04.354 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-04-09 16:17:04.876 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@44de0113: 61 ms
+2026-04-09 16:17:04.879 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@76d05cc9: 1 ms
+2026-04-09 16:17:04.890 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@c6e0f32: 10 ms
+2026-04-09 16:17:04.898 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@971e903: 7 ms
+2026-04-09 16:17:04.906 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@36dfbdaf: 8 ms
+2026-04-09 16:17:04.906 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4f82663e: 0 ms
+2026-04-11 13:42:36.976 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 13:42:36.999 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 13:42:40.314 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 13:42:51.311 [main] INFO  base.BasePage - To do clicked !!!!!
+2026-04-11 13:42:51.526 [main] INFO  base.BasePage - Browser closed
+2026-04-11 14:12:13.265 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 14:12:13.296 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 14:12:16.816 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 14:14:08.567 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 14:14:08.624 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 14:14:11.860 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 14:15:03.093 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 14:15:03.147 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 14:15:06.780 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 14:16:04.597 [main] INFO  base.BasePage - To do clicked !!!!!
+2026-04-11 14:16:27.252 [main] INFO  base.BasePage - Browser closed
+2026-04-11 14:17:38.033 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 14:17:38.079 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 14:17:41.699 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 14:19:24.107 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 14:19:24.163 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 14:19:27.749 [main] INFO  base.BasePage - Browser closed
+2026-04-11 14:19:31.614 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 14:20:06.841 [main] INFO  base.BasePage - Browser closed
+2026-04-11 14:21:09.387 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 14:21:09.439 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 14:21:12.693 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 14:21:51.094 [main] INFO  base.BasePage - To do clicked !!!!!
+2026-04-11 14:22:14.038 [main] INFO  base.BasePage - Browser closed
+2026-04-11 14:22:49.478 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 14:22:49.586 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 14:22:53.234 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 14:23:21.654 [main] INFO  base.BasePage - To do clicked !!!!!
+2026-04-11 14:23:27.040 [main] INFO  base.BasePage - Browser closed
+2026-04-11 15:05:56.910 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 15:05:56.986 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 15:06:01.416 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 15:06:38.266 [main] INFO  base.BasePage - 💾 Main window handle: AF5987B3E3EB72CBFEF474EAA3EC386B
+2026-04-11 15:06:38.602 [main] INFO  base.BasePage - 🔍 Clicking on Anas ELHASSANI requisition...
+2026-04-11 15:06:38.959 [main] INFO  base.BasePage - ⏳ Waiting for new window to open...
+2026-04-11 15:06:43.023 [main] INFO  base.BasePage - ✅ Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183?close_when_done=false
+2026-04-11 15:06:43.080 [main] INFO  base.BasePage - 🔘 Clicking 'Approuver' button...
+2026-04-11 15:07:04.107 [main] INFO  base.BasePage - Browser closed
+2026-04-11 15:51:19.968 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 15:51:20.030 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 15:51:25.261 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 15:52:04.641 [main] INFO  base.BasePage - 💾 Main window handle: E61121289AC9F8D68E8E53516FF32C39
+2026-04-11 15:52:05.079 [main] INFO  base.BasePage - 🔍 Clicking on Anas ELHASSANI requisition...
+2026-04-11 15:52:05.369 [main] INFO  base.BasePage - ⏳ Waiting for new window to open...
+2026-04-11 15:52:09.593 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183?close_when_done=false
+2026-04-11 15:52:30.709 [main] INFO  base.BasePage - Browser closed
+2026-04-11 15:55:08.611 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 15:55:08.667 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 15:55:12.245 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 15:55:57.769 [main] INFO  base.BasePage - 💾 Main window handle: 930E139431ECCAB60878020D1357D91B
+2026-04-11 15:55:58.125 [main] INFO  base.BasePage - 🔍 Clicking on Anas ELHASSANI requisition...
+2026-04-11 15:55:58.481 [main] INFO  base.BasePage - ⏳ Waiting for new window to open...
+2026-04-11 15:56:02.212 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183?close_when_done=false
+2026-04-11 15:56:02.312 [main] INFO  base.BasePage - Clicking 'Approuver' button...
+2026-04-11 15:56:23.618 [main] INFO  base.BasePage - Browser closed
+2026-04-11 16:01:08.219 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 16:01:08.263 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 16:01:12.595 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 16:02:01.415 [main] INFO  base.BasePage - 💾 Main window handle: CBEEA7B7DF74DDF1E465F1E401AA7EC2
+2026-04-11 16:02:01.924 [main] INFO  base.BasePage - 🔍 Clicking on Anas ELHASSANI requisition...
+2026-04-11 16:02:23.237 [main] INFO  base.BasePage - Browser closed
+2026-04-11 16:04:36.025 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 16:04:36.077 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 16:04:41.162 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 16:05:20.634 [main] INFO  base.BasePage - Main window handle: 30FB0E5317CA1B1B9C3AFA66B2170B72
+2026-04-11 16:05:20.963 [main] INFO  base.BasePage - Clicking on Anas ELHASSANI requisition...
+2026-04-11 16:05:42.032 [main] INFO  base.BasePage - Browser closed
+2026-04-11 16:06:11.556 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 16:06:11.621 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 16:06:14.717 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 16:06:51.748 [main] INFO  base.BasePage - Main window handle: 19A6BC2C48F9CA3DCA9BB8BD6E3C28F3
+2026-04-11 16:06:52.083 [main] INFO  base.BasePage - Clicking on Anas ELHASSANI requisition...
+2026-04-11 16:06:53.558 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-11 16:07:00.661 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183?close_when_done=false
+2026-04-11 16:07:00.872 [main] INFO  base.BasePage - Clicking 'Approuver' button...
+2026-04-11 16:07:58.731 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 16:07:58.774 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 16:08:02.991 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 16:08:33.922 [main] INFO  base.BasePage - Main window handle: 0DC0771A152D7B05CE9B5EB9B3898CE7
+2026-04-11 16:08:34.279 [main] INFO  base.BasePage - Clicking on Anas ELHASSANI requisition...
+2026-04-11 16:08:35.179 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-11 16:08:50.070 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183?close_when_done=false
+2026-04-11 16:08:50.146 [main] INFO  base.BasePage - Clicking 'Approuver' button...
+2026-04-11 16:09:11.876 [main] INFO  base.BasePage - Browser closed
+2026-04-11 16:10:29.770 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 16:10:29.807 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 16:10:34.006 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 16:11:09.808 [main] INFO  base.BasePage - Main window handle: 29FCA2CC201B1EBFF95D4F322073FFAE
+2026-04-11 16:11:10.464 [main] INFO  base.BasePage - Clicking on Anas ELHASSANI requisition...
+2026-04-11 16:11:10.784 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-11 16:11:17.695 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183?close_when_done=false
+2026-04-11 16:11:17.785 [main] INFO  base.BasePage - Clicking 'Approuver' button...
+2026-04-11 16:11:26.401 [main] INFO  base.BasePage - To do clicked !!!!!
+2026-04-11 16:11:34.029 [main] INFO  base.BasePage - Browser closed
+2026-04-11 17:25:21.240 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 17:25:21.316 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 17:25:26.894 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 17:26:47.688 [main] INFO  base.BasePage - Navigated to Invoices
+2026-04-11 17:26:51.989 [main] INFO  base.BasePage - Navigated to Invoice Inbox via href
+2026-04-11 17:27:10.211 [main] INFO  base.BasePage - Browser closed
+2026-04-11 17:39:30.944 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 17:39:31.032 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 17:39:37.078 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 17:40:44.782 [main] INFO  base.BasePage - Navigated to Invoices
+2026-04-11 17:40:48.342 [main] INFO  base.BasePage - Navigated to Invoice Inbox via href
+2026-04-11 17:40:50.032 [main] INFO  base.BasePage - Filter condition set to: today
+2026-04-11 17:41:07.449 [main] INFO  base.BasePage - Browser closed
+2026-04-11 18:51:22.815 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 18:51:22.856 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 18:51:26.291 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 18:51:39.701 [main] INFO  base.BasePage - Main window handle: A3E327F95D888CF97CEE6B5C837F0877
+2026-04-11 18:51:40.182 [main] INFO  base.BasePage - Browser closed
+2026-04-11 18:53:00.671 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 18:53:00.731 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 18:53:04.145 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 18:53:14.374 [main] INFO  base.BasePage - Main window handle: 1AA0F16DE74E73B169B8F951E0A92041
+2026-04-11 18:53:14.910 [main] INFO  base.BasePage - Browser closed
+2026-04-11 18:57:23.012 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 18:57:23.091 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 18:57:26.278 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 18:57:26.514 [main] INFO  base.BasePage - Main window handle: 1FB1E266042E5A0703830C9115A5EEA2
+2026-04-11 18:57:38.666 [main] INFO  base.BasePage - Browser closed
+2026-04-11 18:59:59.639 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 18:59:59.703 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 19:00:02.827 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 19:00:13.787 [main] INFO  base.BasePage - Main window handle: 0322304560141C2DA99A7ABA45739904
+2026-04-11 19:00:14.196 [main] INFO  base.BasePage - Browser closed
+2026-04-11 19:01:44.256 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-11 19:01:44.298 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-11 19:01:47.537 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-11 19:01:59.316 [main] INFO  base.BasePage - Main window handle: 7CE121FC5C91A3C8EAA0A1DCF5036334
+2026-04-11 19:01:59.582 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-11 19:02:03.199 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-11 19:02:03.303 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-11 19:02:03.303 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-11 19:02:03.303 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-11 19:02:37.589 [main] INFO  base.BasePage - Browser closed
+2026-04-12 01:35:20.397 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 01:35:20.449 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 01:35:24.070 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 01:35:40.411 [main] INFO  base.BasePage - Main window handle: 126B319C4F72ACA1B69E9DC95D5C55ED
+2026-04-12 01:35:44.721 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 01:35:50.101 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 01:35:50.153 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 01:35:50.154 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 01:35:50.154 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 01:36:05.584 [main] INFO  base.BasePage - Browser closed
+2026-04-12 01:37:01.827 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 01:37:01.931 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 01:37:04.907 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 01:37:17.132 [main] INFO  base.BasePage - Main window handle: C8E01BAC9A6477533FE59E04C644EE5E
+2026-04-12 01:37:17.461 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 01:37:19.915 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 01:37:19.997 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 01:37:19.998 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 01:37:19.998 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 01:37:33.685 [main] INFO  base.BasePage - Browser closed
+2026-04-12 01:38:40.465 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 01:38:40.576 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 01:38:43.546 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 01:39:02.798 [main] INFO  base.BasePage - Main window handle: CCDDE0C88C75FFA5609D3F521446A57A
+2026-04-12 01:39:03.770 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 01:39:13.073 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 01:39:13.177 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 01:39:13.178 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 01:39:13.178 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 01:39:26.074 [main] INFO  base.BasePage - Browser closed
+2026-04-12 01:54:41.469 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 01:54:41.509 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 01:54:45.532 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 01:55:04.459 [main] INFO  base.BasePage - Main window handle: BC36FF1A83343603BA11E60A2E00DB21
+2026-04-12 01:55:07.669 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 01:55:11.614 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 01:55:11.728 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 01:55:11.729 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 01:55:11.729 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 01:55:32.058 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-12 01:55:34.334 [main] INFO  base.BasePage - Browser closed
+2026-04-12 01:56:31.277 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 01:56:31.305 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 01:56:34.422 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 01:56:57.431 [main] INFO  base.BasePage - Main window handle: 8A8DA35A86E9A4184E1BB5E1BCCC6729
+2026-04-12 01:57:01.958 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 01:57:06.279 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 01:57:06.389 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 01:57:06.390 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 01:57:06.390 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 01:57:24.386 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-12 01:57:28.100 [main] INFO  base.BasePage - Browser closed
+2026-04-12 13:06:33.784 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 13:06:33.843 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 13:06:38.971 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 13:06:52.747 [main] INFO  base.BasePage - Main window handle: C572401AFA723DEAF376A979B944FE41
+2026-04-12 13:06:53.272 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 13:06:59.252 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 13:06:59.342 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 13:06:59.342 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 13:06:59.342 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 13:07:20.439 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-12 13:07:41.341 [main] INFO  base.BasePage - Browser closed
+2026-04-12 13:22:51.435 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 13:22:51.500 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 13:22:56.003 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 13:23:09.284 [main] INFO  base.BasePage - Main window handle: 7D8D8B0BF56CD18FB9FC0266BCEE204C
+2026-04-12 13:23:10.381 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 13:23:15.794 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 13:23:16.031 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 13:23:16.031 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 13:23:16.032 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 13:23:21.316 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-12 13:23:22.380 [main] INFO  base.BasePage - 🔍 Clicking 'Pick lines from PO' button...
+2026-04-12 13:23:25.117 [main] INFO  base.BasePage - Browser closed
+2026-04-12 13:25:01.927 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 13:25:02.003 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 13:25:02.136 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 13:25:02.197 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 13:25:06.333 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 13:25:07.809 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 13:25:25.077 [main] INFO  base.BasePage - Main window handle: FA193CD4838C96DE73BE207EEFA4553B
+2026-04-12 13:25:25.590 [main] INFO  base.BasePage - Main window handle: 31079A29FD7B868F8C23FE3B21AFD734
+2026-04-12 13:25:26.133 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 13:25:27.410 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 13:25:35.350 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 13:25:35.517 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 13:25:35.517 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 13:25:35.518 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 13:25:36.637 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 13:25:36.737 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 13:25:36.737 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 13:25:36.738 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 13:25:46.047 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-12 13:25:46.134 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-12 13:25:47.309 [main] INFO  base.BasePage - 🔍 Clicking 'Pick lines from PO' button...
+2026-04-12 13:25:47.480 [main] INFO  base.BasePage - 🔍 Clicking 'Pick lines from PO' button...
+2026-04-12 13:25:49.951 [main] INFO  base.BasePage - Browser closed
+2026-04-12 13:25:50.107 [main] INFO  base.BasePage - Browser closed
+2026-04-12 13:46:54.257 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 13:46:54.307 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 13:46:58.370 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 13:47:09.707 [main] INFO  base.BasePage - Main window handle: 8912FADF8165B72001CC77B049DE26B0
+2026-04-12 13:47:10.757 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 13:47:14.765 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 13:47:14.881 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 13:47:14.882 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 13:47:14.882 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 13:47:20.629 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-12 13:47:21.949 [main] INFO  base.BasePage - 🔍 Clicking 'Pick lines from PO' button...
+2026-04-12 13:47:22.350 [main] INFO  base.BasePage - ✅ Standard click succeeded
+2026-04-12 13:47:22.351 [main] INFO  base.BasePage - ✅ 'Pick lines from PO' clicked
+2026-04-12 13:47:22.352 [main] INFO  base.BasePage - ⏳ Waiting for PO selection modal...
+2026-04-12 13:47:38.661 [main] INFO  base.BasePage - Browser closed
+2026-04-12 14:02:52.812 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 14:02:52.871 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 14:02:56.066 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 14:03:09.154 [main] INFO  base.BasePage - Main window handle: F19DAD24EE7F952B9562F709E4FF3DE3
+2026-04-12 14:03:11.580 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 14:03:15.771 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 14:03:15.870 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 14:03:15.871 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 14:03:15.872 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 14:03:20.224 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-12 14:03:36.497 [main] INFO  base.BasePage - Browser closed
+2026-04-12 14:04:48.494 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 14:04:48.562 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 14:04:52.947 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 14:05:07.817 [main] INFO  base.BasePage - Main window handle: F7F2BEF572F2EE001E3E44485B4C8E64
+2026-04-12 14:05:08.290 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 14:05:13.146 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 14:05:13.374 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 14:05:13.375 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 14:05:13.375 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 14:05:15.614 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-12 14:05:15.615 [main] INFO  base.BasePage - 🔍 Clicking 'Pick lines from PO' button...
+2026-04-12 14:05:19.432 [main] INFO  base.BasePage - ✅ Standard click succeeded
+2026-04-12 14:05:19.432 [main] INFO  base.BasePage - ✅ 'Pick lines from PO' clicked
+2026-04-12 14:05:19.432 [main] INFO  base.BasePage - ⏳ Waiting for PO selection modal...
+2026-04-12 14:05:35.635 [main] INFO  base.BasePage - Browser closed
+2026-04-12 14:06:53.364 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-12 14:06:53.414 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-12 14:06:57.541 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-12 14:07:12.436 [main] INFO  base.BasePage - Main window handle: A6637ABC0526DB76EEA52B5F0AAE2460
+2026-04-12 14:07:12.924 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-12 14:07:17.687 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-12 14:07:17.809 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-12 14:07:17.810 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-12 14:07:17.810 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-12 14:07:22.647 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-12 14:07:22.648 [main] INFO  base.BasePage - 🔍 Clicking 'Pick lines from PO' button...
+2026-04-12 14:07:23.121 [main] INFO  base.BasePage - ✅ Standard click succeeded
+2026-04-12 14:07:23.121 [main] INFO  base.BasePage - ✅ 'Pick lines from PO' clicked
+2026-04-12 14:07:23.122 [main] INFO  base.BasePage - ⏳ Waiting for PO selection modal...
+2026-04-12 14:07:23.122 [main] INFO  base.BasePage - PO selection modal is ready
+2026-04-12 14:07:23.122 [main] INFO  base.BasePage - 🔍 Searching for PO: PO-HQ00119427
+2026-04-12 14:07:27.579 [main] INFO  base.BasePage - ✅ PO search completed for: PO-HQ00119427
+2026-04-12 14:08:00.982 [main] INFO  base.BasePage - Browser closed
+2026-04-13 00:44:03.482 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 00:44:03.512 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 00:44:07.181 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 00:44:07.426 [main] INFO  base.BasePage - Main window handle: FC48A0C653377DF338248077B0CA366B
+2026-04-13 00:44:27.348 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 00:44:31.414 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 00:44:31.468 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 00:44:31.468 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 00:44:31.468 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 00:44:34.918 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 00:44:34.920 [main] INFO  base.BasePage - 🔍 Clicking 'Pick lines from PO' button...
+2026-04-13 00:44:35.120 [main] INFO  base.BasePage - Standard click succeeded
+2026-04-13 00:44:35.120 [main] INFO  base.BasePage - 'Pick lines from PO' clicked
+2026-04-13 00:44:35.120 [main] INFO  base.BasePage -  Waiting for PO selection modal...
+2026-04-13 00:44:35.121 [main] INFO  base.BasePage - PO selection modal is ready
+2026-04-13 00:44:35.121 [main] INFO  base.BasePage - Searching for PO: PO-HQ00119427
+2026-04-13 00:44:38.105 [main] INFO  base.BasePage - ✅ PO search completed for: PO-HQ00119427
+2026-04-13 00:44:38.105 [main] INFO  base.BasePage - Clicking 'Add to invoice' for selected PO line...
+2026-04-13 00:44:38.251 [main] INFO  base.BasePage - Standard click succeeded
+2026-04-13 00:44:44.686 [main] INFO  base.BasePage - ✅ PO line successfully added to invoice
+2026-04-13 00:44:52.004 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:04:42.209 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:04:42.238 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:04:45.227 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:04:49.505 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:05:55.105 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:05:55.127 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:05:59.105 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:05:59.281 [main] INFO  base.BasePage - Main window handle: 832BA532A35E83346CE261F054D2380A
+2026-04-13 01:07:38.604 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:07:55.936 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:07:55.966 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:07:58.420 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:08:15.113 [main] INFO  base.BasePage - Main window handle: 1E0602215FC684A1C7BFE4D6D11BE0BF
+2026-04-13 01:08:16.413 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:08:26.634 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:08:26.690 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:08:26.691 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:08:26.691 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:08:28.806 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:08:31.139 [main] INFO  base.BasePage - ✅ RemitTo successfully added to invoice
+2026-04-13 01:08:32.853 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:10:08.254 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:10:08.285 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:10:11.041 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:10:21.919 [main] INFO  base.BasePage - Main window handle: ACDB2033C3894383FEEDA059F2F865E4
+2026-04-13 01:10:24.898 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:10:29.251 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:10:29.300 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:10:29.300 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:10:29.300 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:10:34.553 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:10:36.089 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:16:28.757 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:16:28.778 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:16:30.728 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:16:51.836 [main] INFO  base.BasePage - Main window handle: 223B7374E1A0332499513877D13E1474
+2026-04-13 01:16:53.645 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:16:56.428 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:16:56.490 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:16:56.491 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:16:56.491 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:17:00.780 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:17:01.071 [main] INFO  base.BasePage - Checkbox clicked successfully
+2026-04-13 01:17:02.620 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:19:00.482 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:19:00.501 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:19:03.010 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:19:15.506 [main] INFO  base.BasePage - Main window handle: CB6808849EBFE3F9A4EA3CAA8B972896
+2026-04-13 01:19:23.174 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:19:30.835 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:19:30.899 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:19:30.900 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:19:30.900 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:19:34.805 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:19:34.973 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 01:19:36.223 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 01:19:36.745 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:27:46.691 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:27:46.724 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:27:52.373 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:28:12.205 [main] INFO  base.BasePage - Main window handle: 25719215AC0E8F06E15954465C1B357B
+2026-04-13 01:28:12.441 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:28:23.913 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:28:23.972 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:28:23.972 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:28:23.972 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:28:30.740 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:28:30.867 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 01:28:32.069 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 01:28:34.190 [main] INFO  base.BasePage - Captured amount: None
+2026-04-13 01:28:34.380 [main] INFO  base.BasePage - Invoice successfully created 
+2026-04-13 01:28:40.872 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:32:19.641 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:32:19.674 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:32:22.498 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:32:35.283 [main] INFO  base.BasePage - Main window handle: 003E99AFCB108CB87D9CEB1AAD517A2E
+2026-04-13 01:32:45.882 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:32:50.382 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:32:50.484 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:32:50.484 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:32:50.484 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:32:54.833 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:32:55.054 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 01:32:56.322 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 01:33:14.803 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:36:16.493 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:36:16.559 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:36:20.185 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:36:36.816 [main] INFO  base.BasePage - Main window handle: FE14015B7D5353618A60442B34BA84B6
+2026-04-13 01:36:37.372 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:36:55.997 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:36:56.113 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:36:56.114 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:36:56.115 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:37:01.694 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:37:01.861 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 01:37:03.122 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 01:37:05.220 [main] INFO  base.BasePage - Captured amount: None
+2026-04-13 01:37:05.526 [main] INFO  base.BasePage - Invoice successfully created 
+2026-04-13 01:37:12.133 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:40:36.591 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:40:36.627 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:40:39.359 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:40:56.464 [main] INFO  base.BasePage - Main window handle: B5564E0E7270FFCFC2E9AB4726330A6F
+2026-04-13 01:41:05.025 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:41:09.642 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:41:09.708 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:41:09.709 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:41:09.709 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:41:15.963 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:41:16.143 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 01:41:17.513 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 01:41:17.650 [main] INFO  base.BasePage - Captured amount: None
+2026-04-13 01:41:18.085 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-13 01:41:24.855 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:43:43.050 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:43:43.092 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:43:46.180 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:43:57.862 [main] INFO  base.BasePage - Main window handle: 361708797B8FE84AF208289DA4AE13C6
+2026-04-13 01:43:59.206 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:44:06.460 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:44:06.511 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:44:06.511 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:44:06.511 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:44:12.785 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:44:12.908 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 01:44:14.161 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 01:44:14.279 [main] INFO  base.BasePage - Captured amount: 2.00
+2026-04-13 01:44:14.536 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-13 01:44:21.076 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:45:48.974 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:45:48.995 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:45:51.791 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:46:12.171 [main] INFO  base.BasePage - Main window handle: 7C05D4833D1CD3A2022E698E768BAE70
+2026-04-13 01:46:13.697 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:46:17.139 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:46:17.237 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:46:17.238 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:46:17.238 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:46:21.235 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:46:21.426 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 01:46:22.486 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 01:46:22.612 [main] INFO  base.BasePage - Captured amount: 2.00
+2026-04-13 01:46:22.921 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-13 01:46:29.653 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:47:35.197 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:47:35.239 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:47:38.276 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:47:53.879 [main] INFO  base.BasePage - Main window handle: 23732BE1ABF1450AB136BB02F0F6D865
+2026-04-13 01:47:55.553 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:48:02.410 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:48:02.574 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:48:02.575 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:48:02.575 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:48:06.152 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:48:06.413 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 01:48:07.838 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 01:48:08.010 [main] INFO  base.BasePage - Captured amount: 2.00
+2026-04-13 01:48:10.441 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-13 01:48:17.141 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:56:21.304 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:56:21.445 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:56:25.423 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:56:41.845 [main] INFO  base.BasePage - Main window handle: DA21DD2A3970B472E24F7CB344909286
+2026-04-13 01:56:42.174 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:56:48.106 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:56:48.225 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:56:48.226 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:56:48.226 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:56:53.246 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:56:53.458 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 01:56:53.693 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-13 01:57:09.576 [main] INFO  base.BasePage - Browser closed
+2026-04-13 01:59:08.591 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 01:59:08.682 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 01:59:12.764 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 01:59:29.999 [main] INFO  base.BasePage - Main window handle: 332E70A40721138E9384520EF14E5C83
+2026-04-13 01:59:30.405 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 01:59:34.681 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 01:59:34.756 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 01:59:34.757 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 01:59:34.757 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 01:59:37.885 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 01:59:38.137 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 01:59:38.342 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-13 01:59:55.817 [main] INFO  base.BasePage - Browser closed
+2026-04-13 02:00:43.343 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 02:00:43.485 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 02:00:46.672 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 02:01:00.845 [main] INFO  base.BasePage - Main window handle: 5AE06BA352428F83137B2C616B82F584
+2026-04-13 02:01:09.937 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 02:01:15.876 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 02:01:16.146 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 02:01:16.146 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 02:01:16.147 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 02:01:22.081 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 02:01:22.309 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 02:01:24.599 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-13 02:06:41.879 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 02:06:42.026 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 02:06:45.675 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 02:07:01.652 [main] INFO  base.BasePage - Main window handle: AD136E3F4CA206A9B0826D179F7C136D
+2026-04-13 02:07:04.289 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 02:07:07.686 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 02:07:07.771 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 02:07:07.772 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 02:07:07.772 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 02:07:13.053 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 02:07:13.433 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 02:07:15.696 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-13 02:07:31.888 [main] INFO  base.BasePage - Browser closed
+2026-04-13 02:08:02.357 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 02:08:02.491 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 02:08:05.849 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 02:08:24.568 [main] INFO  base.BasePage - Main window handle: EA6298C35F24A1F9E6C22F50890B6FE5
+2026-04-13 02:08:26.014 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 02:08:34.198 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 02:08:34.256 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 02:08:34.256 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 02:08:34.256 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 02:08:39.569 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 02:08:39.784 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 02:08:42.030 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-13 02:08:57.988 [main] INFO  base.BasePage - Browser closed
+2026-04-13 02:10:48.345 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 02:10:48.441 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 02:10:51.840 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 02:11:08.811 [main] INFO  base.BasePage - Main window handle: 27313B79C87953C37EB380DAFF88D405
+2026-04-13 02:11:11.459 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 02:11:14.357 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 02:11:14.438 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 02:11:14.438 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 02:11:14.439 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 02:11:19.363 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 02:11:19.540 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 02:11:39.374 [main] INFO  base.BasePage - Browser closed
+2026-04-13 02:15:04.689 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 02:15:04.739 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 02:15:08.182 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 02:15:22.537 [main] INFO  base.BasePage - Main window handle: F62D3B847D98BAA22017530441077A6C
+2026-04-13 02:15:27.058 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 02:15:31.642 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 02:15:31.774 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 02:15:31.774 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 02:15:31.774 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 02:15:37.659 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 02:15:37.869 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-13 02:15:38.017 [main] INFO  base.BasePage - Tax code selected: FR: 0DEENC-00.0 - TVA FRANCE DEDUCTIBLE ENCAISSEMENTS B... - 0.0%
+2026-04-13 02:15:38.222 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 02:15:39.514 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 02:15:39.641 [main] INFO  base.BasePage - Captured amount: —.——
+2026-04-13 02:15:42.003 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-13 02:15:48.505 [main] INFO  base.BasePage - Browser closed
+2026-04-13 02:18:23.479 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 02:18:23.588 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 02:18:26.578 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 02:18:44.835 [main] INFO  base.BasePage - Main window handle: E8AA30F6011F7CEEF564371CA46DA96B
+2026-04-13 02:18:45.695 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 02:18:54.559 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 02:18:54.645 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 02:18:54.645 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 02:18:54.646 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 02:19:00.255 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 02:19:00.444 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 02:19:00.594 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-13 02:19:00.684 [main] INFO  base.BasePage - Tax code selected: FR: 0DEENC-00.0 - TVA FRANCE DEDUCTIBLE ENCAISSEMENTS B... - 0.0%
+2026-04-13 02:19:01.946 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 02:19:02.084 [main] INFO  base.BasePage - Captured amount: —.——
+2026-04-13 02:19:04.465 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-13 02:19:11.274 [main] INFO  base.BasePage - Browser closed
+2026-04-13 02:20:05.518 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 02:20:05.571 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 02:20:08.315 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 02:20:27.601 [main] INFO  base.BasePage - Main window handle: A5FD243A609B35D69C35DA9B5A8FA923
+2026-04-13 02:20:33.578 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 02:20:38.325 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 02:20:38.393 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 02:20:38.394 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 02:20:38.394 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 02:20:43.812 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 02:20:43.991 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 02:20:46.319 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-13 02:20:46.414 [main] INFO  base.BasePage - Tax code selected: FR: 0DEENC-00.0 - TVA FRANCE DEDUCTIBLE ENCAISSEMENTS B... - 0.0%
+2026-04-13 02:20:46.721 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 02:20:48.837 [main] INFO  base.BasePage - Captured amount: 2.00
+2026-04-13 02:20:51.187 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-13 02:20:57.950 [main] INFO  base.BasePage - Browser closed
+2026-04-13 02:25:58.484 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 02:25:58.540 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 02:26:01.244 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 02:26:13.780 [main] INFO  base.BasePage - Main window handle: D3BA85519AAAF4707E21FD71B721BEDA
+2026-04-13 02:26:21.282 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 02:26:25.589 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 02:26:25.653 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 02:26:25.654 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 02:26:25.654 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 02:26:30.411 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 02:26:30.572 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 02:26:31.854 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-13 02:26:31.961 [main] INFO  base.BasePage - Tax code selected: FR: 0DEENC-00.0 - TVA FRANCE DEDUCTIBLE ENCAISSEMENTS B... - 0.0%
+2026-04-13 02:26:32.257 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 02:26:34.403 [main] INFO  base.BasePage - Captured amount: 2.00
+2026-04-13 02:26:36.804 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-13 02:26:45.799 [main] INFO  base.BasePage - Browser closed
+2026-04-13 02:27:32.694 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 02:27:32.783 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 02:27:35.774 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 02:27:50.490 [main] INFO  base.BasePage - Main window handle: F0EC03BCDDDD0533E772A978DCB62B63
+2026-04-13 02:27:58.256 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 02:28:03.711 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 02:28:03.913 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 02:28:03.913 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 02:28:03.913 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 02:28:07.647 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 02:28:07.888 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 02:28:08.112 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-13 02:28:08.314 [main] INFO  base.BasePage - Tax code selected: FR: 0DEENC-00.0 - TVA FRANCE DEDUCTIBLE ENCAISSEMENTS B... - 0.0%
+2026-04-13 02:28:09.686 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 02:28:11.794 [main] INFO  base.BasePage - Captured amount: 2.00
+2026-04-13 02:28:14.085 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-13 02:28:17.858 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 02:28:24.648 [main] INFO  base.BasePage - Browser closed
+2026-04-13 02:29:25.791 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 02:29:25.824 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 02:29:28.466 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 02:29:41.819 [main] INFO  base.BasePage - Main window handle: BA5B5E62610A4A77B90B9129AD268896
+2026-04-13 02:29:48.938 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-13 02:29:54.823 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164183
+2026-04-13 02:29:54.976 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119427
+2026-04-13 02:29:54.977 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119427
+2026-04-13 02:29:54.978 [main] INFO  base.BasePage - PO-HQ00119427
+2026-04-13 02:29:59.144 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/invoices/366585/edit
+2026-04-13 02:29:59.402 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-13 02:30:00.655 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-13 02:30:00.748 [main] INFO  base.BasePage - Tax code selected: FR: 0DEENC-00.0 - TVA FRANCE DEDUCTIBLE ENCAISSEMENTS B... - 0.0%
+2026-04-13 02:30:01.060 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 02:30:03.189 [main] INFO  base.BasePage - Captured amount: 2.00
+2026-04-13 02:30:05.600 [main] INFO  base.BasePage - Calculate clicked
+2026-04-13 02:30:07.706 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-13 02:30:14.317 [main] INFO  base.BasePage - Browser closed
+2026-04-13 10:57:39.923 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 10:57:39.973 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 10:57:43.489 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 10:57:57.292 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 10:57:57.652 [main] INFO  base.BasePage - Browser closed
+2026-04-13 10:59:10.432 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 10:59:10.527 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 10:59:13.117 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 10:59:25.850 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 10:59:26.181 [main] INFO  base.BasePage - Browser closed
+2026-04-13 11:03:12.480 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 11:03:12.530 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 11:03:15.115 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 11:03:34.019 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 11:03:46.932 [main] INFO  base.BasePage - Backing document set to: Contract
+2026-04-13 11:03:46.957 [main] INFO  base.BasePage - Contract selector is now visible
+2026-04-13 11:03:47.176 [main] INFO  base.BasePage - Contract selected: CGI FRANCE Régie Informatique 2017 (Published)
+2026-04-13 11:03:48.417 [main] INFO  base.BasePage - Browser closed
+2026-04-13 11:04:37.394 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 11:04:37.448 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 11:04:40.349 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 11:04:54.829 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 11:05:02.430 [main] INFO  base.BasePage - Backing document set to: Contract
+2026-04-13 11:05:02.452 [main] INFO  base.BasePage - Contract selector is now visible
+2026-04-13 11:05:02.639 [main] INFO  base.BasePage - Contract selected: CGI FRANCE Régie Informatique 2017 (Published)
+2026-04-13 11:05:19.154 [main] INFO  base.BasePage - Browser closed
+2026-04-13 11:09:19.190 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 11:09:19.256 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 11:09:21.812 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 11:09:33.774 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 11:09:41.255 [main] INFO  base.BasePage - Backing document set to: Contract
+2026-04-13 11:09:41.292 [main] INFO  base.BasePage - Contract selector is now visible
+2026-04-13 11:09:41.580 [main] INFO  base.BasePage - Contract selected: CGI FRANCE Régie Informatique 2017 (Published)
+2026-04-13 11:10:02.600 [main] INFO  base.BasePage - Browser closed
+2026-04-13 11:32:24.789 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 11:32:24.923 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 11:32:28.553 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 11:32:45.244 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 11:32:55.335 [main] INFO  base.BasePage - Browser closed
+2026-04-13 11:37:22.852 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 11:37:22.916 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 11:37:26.080 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 11:37:36.613 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 11:37:49.755 [main] INFO  base.BasePage - Browser closed
+2026-04-13 11:41:16.544 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 11:41:16.620 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 11:41:19.357 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 11:41:30.192 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 11:41:37.257 [main] INFO  pages.E2E.EndToEnd2.SubmitRequisitionForApproval - Edit clicked succefully !! 
+2026-04-13 11:41:37.390 [main] INFO  pages.E2E.EndToEnd2.SubmitRequisitionForApproval - Edit clicked succefully !! 
+2026-04-13 11:41:37.508 [main] INFO  pages.E2E.EndToEnd2.SubmitRequisitionForApproval - Clicked 'cancelBtn' button
+2026-04-13 11:41:37.857 [main] INFO  base.BasePage - Browser closed
+2026-04-13 12:58:05.251 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 12:58:05.315 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 12:58:17.865 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 12:59:28.374 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 12:59:28.424 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 12:59:32.228 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 13:00:25.615 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 13:00:36.770 [main] INFO  base.BasePage - Browser closed
+2026-04-13 13:00:44.283 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 13:00:44.311 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 13:00:47.818 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 13:01:10.893 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 13:01:18.845 [main] INFO  pages.E2E.EndToEnd2.SubmitRequisitionForApproval - Edit clicked succefully !! 
+2026-04-13 13:01:18.998 [main] INFO  pages.E2E.EndToEnd2.SubmitRequisitionForApproval - Edit clicked succefully !! 
+2026-04-13 13:01:19.151 [main] INFO  pages.E2E.EndToEnd2.SubmitRequisitionForApproval - Clicked 'cancelBtn' button
+2026-04-13 13:01:24.867 [main] INFO  base.BasePage - Browser closed
+2026-04-13 13:05:02.929 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 13:05:03.015 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 13:05:06.908 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 13:05:28.106 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 13:05:39.271 [main] INFO  base.BasePage - Browser closed
+2026-04-13 13:05:46.233 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 13:05:46.324 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 13:05:49.743 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 13:06:35.176 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 13:06:35.250 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 13:06:38.583 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 13:06:59.036 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 13:07:10.230 [main] INFO  base.BasePage - Browser closed
+2026-04-13 13:07:43.950 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 13:07:44.079 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 13:07:47.454 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 13:08:08.225 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 13:08:18.810 [main] INFO  base.BasePage - Browser closed
+2026-04-13 13:08:41.024 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 13:08:41.147 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 13:08:44.640 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 13:09:27.866 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 13:09:38.788 [main] INFO  base.BasePage - Browser closed
+2026-04-13 13:10:26.075 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 13:10:26.178 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 13:10:30.396 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-13 13:11:01.771 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-13 13:11:11.726 [main] INFO  pages.E2E.EndToEnd2.SubmitRequisitionForApproval - Edit clicked succefully !! 
+2026-04-13 13:11:11.933 [main] INFO  pages.E2E.EndToEnd2.SubmitRequisitionForApproval - Edit clicked succefully !! 
+2026-04-13 13:11:12.146 [main] INFO  pages.E2E.EndToEnd2.SubmitRequisitionForApproval - Clicked 'cancelBtn' button
+2026-04-13 13:11:15.193 [main] INFO  base.BasePage - Browser closed
+2026-04-13 13:14:21.819 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.56 (resolved driver for Chrome 147)
+2026-04-13 13:14:21.847 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.56\chromedriver.exe
+2026-04-13 13:14:25.706 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new

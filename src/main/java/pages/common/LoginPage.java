@@ -9,15 +9,24 @@ import org.openqa.selenium.WebDriver;
  */
 public class LoginPage extends BasePage {
 
-    private final By usernameField = By.id("login");
-    private final By passwordField = By.id("password");
-    private final By loginButton   = By.name("commit");
+    private final By usernameField = By.id("user_login");
+	private final By passwordField = By.id("user_password");
+	private final By loginButton = By.xpath("//button[@type='submit']");
+
+//	public void login(String user, String pass) {
+//		driver.findElement(username).sendKeys(user);
+//		driver.findElement(password).sendKeys(pass);
+//		driver.findElement(loginButton).click();
+//	}
 
     public LoginPage(WebDriver driver) {
         this.driver = driver;
         this.wait   = new org.openqa.selenium.support.ui.WebDriverWait(
                 driver, java.time.Duration.ofSeconds(15));
     }
+//    public LoginPage(WebDriver driver) {
+//		this.driver = driver;
+//	}
 
     public void login(String username, String password) {
         type(usernameField, username);
