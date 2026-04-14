@@ -29,11 +29,13 @@ public class InvoiceListPage extends BasePage {
 	private By invoiceNumber = By.className("s-invoiceNumber");
 	private By invoiceDate = By.id("local_invoice_date_3");
 	private By pickPoBtn = By.cssSelector("button.s-pickLinesFromPo");
-	private By inputField = By.id("remit_to_address_id_16");
+	private By inputField = By.xpath("//input[starts-with(@id,'remit_to_address_id_')]");
 	private By searchInput = By.id("sf_order_line");
 	private By searchIcon = By.id("sfBtn_order_line");
-    private By firstOption = By.cssSelector("#remit_to_address_id_16_results li.-active");
-    private By resultsList = By.id("remit_to_address_id_16_results");
+//    private By firstOption = By.cssSelector("#remit_to_address_id_16_results li.-active");
+//    private By resultsList = By.id("remit_to_address_id_16_results");
+	private By resultsList = By.cssSelector("[id^='remit_to_address_id_'][id$='_results']");
+	private By firstOption = By.cssSelector("[id^='remit_to_address_id_'][id$='_results'] li.-active");
     private By checkbox = By.cssSelector("input.s-invoiceLineLevelTaxation");
     private By spinner = By.cssSelector(".loading, .spinner, .overlay");
     private By calculateBtn = By.cssSelector("button.s-calculateButton");
@@ -231,18 +233,9 @@ public class InvoiceListPage extends BasePage {
 	
 	public void selectFirstRemitToOption() {
 
-//	    WebElement input = wait.until(
-//	        ExpectedConditions.elementToBeClickable(inputField)
-//	    );
-//
-//	    input.click();
+
 		click(inputField);
-	    wait.until(ExpectedConditions.visibilityOfElementLocated(resultsList));
-//	    WebElement option = wait.until(
-//	        ExpectedConditions.elementToBeClickable(firstOption)
-//	    );
-//	    click(dropdownLocator);
-//	    option.click();
+	    wait.until(ExpectedConditions.visibilityOfElementLocated(resultsList));	    
 	    click(firstOption);
 
 	    log.info("✅ RemitTo successfully added to invoice");

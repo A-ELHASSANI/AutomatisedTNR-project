@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="test.SupplierTest">
+      <class name="test.EndToEndTest2">
         <methods>
           <include name="closeSuite"/>
-          <include name="tc002_selectPaymentAndSubmit"/>
+          <include name="step07_invoice"/>
           <include name="initSuite"/>
           <include name="captureResultOnFailure"/>
-          <include name="tc005_aioAdminApproves"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- test.SupplierTest -->
+      </class> <!-- test.EndToEndTest2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -2,35 +2,39 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-09T16:17:04 WEST" name="Default suite" finished-at="2026-04-09T16:17:04 WEST" duration-ms="423">
+  <suite started-at="2026-04-13T17:53:45 WEST" name="Default suite" finished-at="2026-04-13T17:54:56 WEST" duration-ms="71391">
     <groups>
     </groups>
-    <test started-at="2026-04-09T16:17:04 WEST" name="Default test" finished-at="2026-04-09T16:17:04 WEST" duration-ms="423">
-      <class name="pages.E2E.EndToEnd2.MainTest">
-        <test-method is-config="true" signature="initSuite()[pri:0, instance:pages.E2E.EndToEnd2.MainTest@19fb8826]" started-at="2026-04-09T16:17:04 WEST" name="initSuite" finished-at="2026-04-09T16:17:04 WEST" duration-ms="149" status="PASS">
+    <test started-at="2026-04-13T17:53:45 WEST" name="Default test" finished-at="2026-04-13T17:54:56 WEST" duration-ms="71391">
+      <class name="test.EndToEndTest2">
+        <test-method is-config="true" signature="initSuite()[pri:0, instance:test.EndToEndTest2@5bfa8cc5]" started-at="2026-04-13T17:53:45 WEST" name="initSuite" finished-at="2026-04-13T17:53:45 WEST" duration-ms="135" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initSuite -->
-        <test-method signature="testCoupaFlow()[pri:0, instance:pages.E2E.EndToEnd2.MainTest@19fb8826]" started-at="2026-04-09T16:17:04 WEST" name="testCoupaFlow" finished-at="2026-04-09T16:17:04 WEST" duration-ms="12" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.EndToEndTest2@5bfa8cc5]" started-at="2026-04-13T17:53:45 WEST" name="setUp" finished-at="2026-04-13T17:53:58 WEST" duration-ms="12447" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCoupaFlow -->
-        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:pages.E2E.EndToEnd2.MainTest@19fb8826]" started-at="2026-04-09T16:17:04 WEST" name="captureResultOnFailure" finished-at="2026-04-09T16:17:04 WEST" duration-ms="3" status="PASS">
+        </test-method> <!-- setUp -->
+        <test-method signature="step07_invoice()[pri:0, instance:test.EndToEndTest2@5bfa8cc5]" started-at="2026-04-13T17:53:58 WEST" name="step07_invoice" description="TC-E2E2-07: Send invoice email and process invoice" finished-at="2026-04-13T17:54:55 WEST" duration-ms="57331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step07_invoice -->
+        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEndTest2@5bfa8cc5]" started-at="2026-04-13T17:54:55 WEST" name="captureResultOnFailure" finished-at="2026-04-13T17:54:55 WEST" duration-ms="7" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=testCoupaFlow status=SUCCESS method=MainTest.testCoupaFlow()[pri:0, instance:pages.E2E.EndToEnd2.MainTest@19fb8826] output={null}]]]>
+                <![CDATA[[TestResult name=step07_invoice status=SUCCESS method=EndToEndTest2.step07_invoice()[pri:0, instance:test.EndToEndTest2@5bfa8cc5] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureResultOnFailure -->
-        <test-method is-config="true" signature="closeSuite()[pri:0, instance:pages.E2E.EndToEnd2.MainTest@19fb8826]" started-at="2026-04-09T16:17:04 WEST" name="closeSuite" finished-at="2026-04-09T16:17:04 WEST" duration-ms="221" status="PASS">
+        <test-method is-config="true" signature="closeSuite()[pri:0, instance:test.EndToEndTest2@5bfa8cc5]" started-at="2026-04-13T17:54:55 WEST" name="closeSuite" finished-at="2026-04-13T17:54:56 WEST" duration-ms="1402" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeSuite -->
-      </class> <!-- pages.E2E.EndToEnd2.MainTest -->
+      </class> <!-- test.EndToEndTest2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

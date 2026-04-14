@@ -13,45 +13,125 @@ import java.time.Duration;
  */
 public class GoodReceiptPage extends BasePage {
 
-    private final By ordersMenu       = By.linkText("Orders");
-    private final By purchaseOrdersLink = By.linkText("Purchase Orders");
-    private final By receiveBtn       = By.cssSelector("a[id^='receive_']");
+    private static final int DEFAULT_WAIT = 10;
+
+    // ── Navigation ────────────────────────────────────────────────────────────
+    private final By requestsMenu     = By.linkText("Requests");
+
+    // ── Receipt form ──────────────────────────────────────────────────────────
     private final By receiptDateField = By.cssSelector("input[aria-label='Date']");
-    private final By quantityField    = By.cssSelector("input[id^='receipt_line_quantity_']");
-    private final By submitBtn        = By.id("receive_button");
+    private final By massActionCb     = By.id("mass_action_cb");
+    private final By firstRowCb       = By.cssSelector("#receive_req_order_line_tbody tr:first-child input.qr-cb");
+    private final By submitButton     = By.id("receive_button");
 
-    public GoodReceiptPage(WebDriver driver) {
-        this.driver = driver;
-        this.wait   = new WebDriverWait(driver, Duration.ofSeconds(15));
+    /** Username shown in the "Requested by" column — read from config at construction time. */
+    private final String requestedBy;
+
+    public GoodReceiptPage(WebDriver driver, String requestedByName) {
+        this.driver      = driver;
+        this.wait        = new WebDriverWait(driver, Duration.ofSeconds(DEFAULT_WAIT));
+        this.requestedBy = requestedByName;
     }
 
-    public void navigateToPurchaseOrders() {
-        click(ordersMenu);
-        click(purchaseOrdersLink);
-        log.info("Navigated to Purchase Orders");
+    // ── Navigation ────────────────────────────────────────────────────────────
+
+    public void openRequests() {
+        wait.until(ExpectedConditions.elementToBeClickable(requestsMenu)).click();
+        log.info("Navigated to Requests");
     }
 
-    public void openReceiptForPO(String poNumber) {
-        By poLink = By.linkText(poNumber);
-        click(poLink);
-        click(receiveBtn);
-        log.info("Opened Good Receipt for PO: {}", poNumber);
+    // ── Row lookup ────────────────────────────────────────────────────────────
+
+    /**
+     * Builds a dynamic XPath to find the row for the current user in "Ordered" status.
+     * No hardcoded amounts — just user name + Ordered status.
+     */
+    private By orderedRowLocator() {
+        return By.xpath(
+            "//tr[" +
+            ".//td[contains(@class,'requested_by') and contains(.,'" + requestedBy + "')] " +
+            "and .//td[contains(.,'Ordered')]" +
+            "]"
+        );
     }
 
-    public void setReceiptDate(String date) {
-        WebElement el = waitForClickable(receiptDateField);
-        el.clear();
-        el.sendKeys(date);
+    /** Clicks the truck/receive icon on the first matching ordered row. */
+    public void clickReceiveButton() {
+        WebElement row = wait.until(
+            ExpectedConditions.visibilityOfElementLocated(orderedRowLocator()));
+        WebElement receiveBtn = row.findElement(
+            By.cssSelector("img[id^='receive_requisition_']"));
+        wait.until(ExpectedConditions.elementToBeClickable(receiveBtn)).click();
+        log.info("Receive button clicked for user: {}", requestedBy);
     }
 
-    public void setQuantity(String qty) {
-        WebElement el = waitForClickable(quantityField);
-        el.clear();
-        el.sendKeys(qty);
+    // ── Receipt form ──────────────────────────────────────────────────────────
+
+    public void enterReceiptDate(String date) {
+        WebElement dateInput = wait.until(
+            ExpectedConditions.elementToBeClickable(receiptDateField));
+        dateInput.clear();
+        dateInput.sendKeys(date);
+        log.info("Receipt date set: {}", date);
+    }
+
+    /** Selects all lines via the mass-action checkbox. */
+    public void selectAllLines() {
+        WebElement cb = wait.until(ExpectedConditions.elementToBeClickable(massActionCb));
+        if (!cb.isSelected()) {
+            cb.click();
+        }
+    }
+
+    /** Selects only the first line (partial receipt). */
+    public void selectFirstLineOnly() {
+        WebElement cb = wait.until(ExpectedConditions.elementToBeClickable(firstRowCb));
+        if (!cb.isSelected()) {
+            cb.click();
+        }
     }
 
     public void submit() {
-        click(submitBtn);
-        log.info("Good Receipt submitted");
+        wait.until(ExpectedConditions.elementToBeClickable(submitButton)).click();
+        log.info("Receipt submitted");
     }
+
+    // ── Compound actions ──────────────────────────────────────────────────────
+
+    /** Opens Requests, finds the ordered row, and opens the receive form. */
+    public void navigateToReceiveForm() {
+        openRequests();
+        clickReceiveButton();
+    }
+    
+    /** Opens Requests, finds the ordered row, and opens the receive form. */
+    public void navigateToReceiveFormByActivity() {
+        openRequests();
+        clickReceiveButton();
+    }
+
+    /** Full receipt: selects all lines and submits. */
+    public void receiveAll(String date) {
+        navigateToReceiveForm();
+        enterReceiptDate(date);
+        selectAllLines();
+        submit();
+    }
+
+    /** Partial receipt: selects only the first line and submits. */
+    public void receiveFirstLine(String date) {
+        navigateToReceiveForm();
+        enterReceiptDate(date);
+        selectFirstLineOnly();
+        submit();
+    }
+    
+    /** Full receipt: selects all lines and submits. */
+    public void receiveItems(String date) {
+    	navigateToReceiveFormByActivity();
+        enterReceiptDate(date);
+        selectAllLines();
+        submit();
+    }
+   
 }
