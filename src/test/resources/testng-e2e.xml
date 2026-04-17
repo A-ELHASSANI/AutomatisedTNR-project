@@ -2,12 +2,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="End-to-End Suite">
   <test name="E2E Test 1">
-    <classes><class name="e2e.EndToEndTest1"/></classes>
+    <classes><class name="e2e.EndToEnd1Test"/></classes>
   </test>
   <test name="E2E Test 2">
-    <classes><class name="e2e.EndToEndTest2"/></classes>
+    <classes><class name="e2e.EndToEnd2Test"/></classes>
   </test>
   <test name="E2E Test 3">
-    <classes><class name="e2e.EndToEndTest3"/></classes>
+    <classes><class name="e2e.EndToEnd3Test"/></classes>
   </test>
 </suite>

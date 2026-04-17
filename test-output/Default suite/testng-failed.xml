@@ -3,15 +3,21 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="test.EndToEndTest2">
+      <class name="test.EndToEnd2Test">
         <methods>
           <include name="closeSuite"/>
-          <include name="step07_invoice"/>
-          <include name="initSuite"/>
-          <include name="captureResultOnFailure"/>
           <include name="setUp"/>
+          <include name="initSuite"/>
+          <include name="step04_approver2"/>
+          <include name="captureResultOnFailure"/>
+          <include name="step07_invoice"/>
+          <include name="step03_approver1"/>
+          <include name="step05_approver3"/>
+          <include name="step02_submitForApproval"/>
+          <include name="step01_fillRequisition"/>
+          <include name="step06_goodReceipt"/>
         </methods>
-      </class> <!-- test.EndToEndTest2 -->
+      </class> <!-- test.EndToEnd2Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

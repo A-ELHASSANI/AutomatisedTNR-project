@@ -124,6 +124,9 @@ public class GoodReceiptPage extends BasePage {
         enterReceiptDate(date);
         selectFirstLineOnly();
         submit();
+        pause(10000);
+        goHome();
+        
     }
     
     /** Full receipt: selects all lines and submits. */
@@ -133,5 +136,8 @@ public class GoodReceiptPage extends BasePage {
         selectAllLines();
         submit();
     }
-   
+    public void goHome() {
+    	WebElement home = wait.until(ExpectedConditions.elementToBeClickable(By.id("home")));
+    	home.click();
+    }
 }

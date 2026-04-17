@@ -195,7 +195,7 @@ public class EndToEnd1Test extends BaseTest{
 		startTest("TC-E2E1-07: Invoice");
 
 		// Capture PO number from message bar
-		poNumber = userAdmin.getPONumber();
+		poNumber = userAdmin.getPOnumber();
 		log.info("PO Number: {}", poNumber);
 
 		// Send invoice email with the PO number
@@ -224,6 +224,6 @@ public class EndToEnd1Test extends BaseTest{
 		pause(3000);
 
 		testReport.pass("Invoice created and linked to PO: " + poNumber);
-		log.info("Step 7 complete — E2E 2 PASSED");
+		log.info("Step 7 complete — E2E 1 PASSED");
 	}
 }

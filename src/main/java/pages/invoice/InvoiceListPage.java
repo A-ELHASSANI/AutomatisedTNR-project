@@ -123,7 +123,7 @@ public class InvoiceListPage extends BasePage {
 
 		wait.until(ExpectedConditions
 				.invisibilityOfElementLocated(By.cssSelector(".loading, .spinner, .overlay, .modal-backdrop")));
-
+		pause(3000);
 		WebElement btn = wait.until(ExpectedConditions.elementToBeClickable(pickPoBtn));
 		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({behavior: 'auto', block: 'center'});",
 				btn);
@@ -185,30 +185,60 @@ public class InvoiceListPage extends BasePage {
 		}
 	}
 
-	public void addPOLineToInvoice() {
-		log.info("Clicking 'Add to invoice' for selected PO line...");
-
-		By addLink = By.cssSelector("a[submit='#invoice_form'][data-remote='true']");
-		WebElement addBtn = wait.until(ExpectedConditions.elementToBeClickable(addLink));
-
-		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({behavior: 'auto', block: 'center'});",
-				addBtn);
-
-		try {
-			addBtn.click();
-			log.info("Standard click succeeded");
-		} catch (ElementClickInterceptedException e) {
-			log.warn("Intercepted, using JS fallback...");
-			((JavascriptExecutor) driver).executeScript("arguments[0].click();", addBtn);
-		}
-
-		waitForLineToAttachToForm();
-		By finishBtn = By.xpath("//a[.//span[text()='Finish']]");
-
-		jsClick(finishBtn);
-		log.info("✅ PO line successfully added to invoice");
-	}
+//	public void addPOLineToInvoice() {
+//		log.info("Clicking 'Add to invoice' for selected PO line...");
+//
+//		By addLink = By.cssSelector("a[submit='#invoice_form'][data-remote='true']");
+//		WebElement addBtn = wait.until(ExpectedConditions.elementToBeClickable(addLink));
+//
+//		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({behavior: 'auto', block: 'center'});",
+//				addBtn);
+//		pause(4000);
+//		try {
+//			addBtn.click();
+//			log.info("Standard click succeeded");
+//		} catch (ElementClickInterceptedException e) {
+//			log.warn("Intercepted, using JS fallback...");
+//			((JavascriptExecutor) driver).executeScript("arguments[0].click();", addBtn);
+//		}
+//
+//		waitForLineToAttachToForm();
+//		By finishBtn = By.xpath("//a[.//span[text()='Finish']]");
+//
+//		jsClick(finishBtn);
+//		log.info("✅ PO line successfully added to invoice");
+//	}
 	
+	public void addPOLineToInvoice() {
+	    log.info("Clicking 'Add to invoice' for selected PO line...");
+
+	    By addLink = By.xpath(
+	        "//tr[.//td[contains(@class,'line_num') and normalize-space()='1']]" +
+	        "//a[@title='Add to invoice']"
+	    );
+
+	    WebElement addBtn = wait.until(ExpectedConditions.visibilityOfElementLocated(addLink));
+
+	    ((JavascriptExecutor) driver).executeScript(
+	        "arguments[0].scrollIntoView({block: 'center'});", addBtn);
+
+	    wait.until(ExpectedConditions.elementToBeClickable(addBtn));
+
+	    try {
+	        addBtn.click();
+	        log.info("Standard click succeeded");
+	    } catch (ElementClickInterceptedException e) {
+	        log.warn("Intercepted, using JS fallback...");
+	        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", addBtn);
+	    }
+
+	    waitForLineToAttachToForm();
+
+	    By finishBtn = By.xpath("//a[.//span[text()='Finish']]");
+	    jsClick(finishBtn);
+
+	    log.info("✅ PO line successfully added to invoice");
+	}
 	private void waitForLineToAttachToForm() {
 		// Wait for page-level spinners to clear
 		wait.until(ExpectedConditions
@@ -237,7 +267,7 @@ public class InvoiceListPage extends BasePage {
 		click(inputField);
 	    wait.until(ExpectedConditions.visibilityOfElementLocated(resultsList));	    
 	    click(firstOption);
-
+	    pause(4000);
 	    log.info("✅ RemitTo successfully added to invoice");
 	}
 //	public void clickCheckboxSafe() {
@@ -318,7 +348,7 @@ public class InvoiceListPage extends BasePage {
 
 	    // 6. Wait refresh after checkbox
 	    wait.until(ExpectedConditions.invisibilityOfElementLocated(spinner));
-	    
+	    pause(3000);
 	    // 2. Open Tax Code dropdown — scoped via stable parent div.s-taxCode
 	    By taxCodeToggle = By.cssSelector("div.s-taxCode div.s-comboBoxContainer span.s-toggleResults");
 	    By secondOption = By.cssSelector("div.s-taxCode ul.ComboBox__results li.s-selectOption:nth-child(2)");
@@ -338,6 +368,7 @@ public class InvoiceListPage extends BasePage {
 
 	    // 4. Wait page to settle after tax code selection
 	    wait.until(ExpectedConditions.invisibilityOfElementLocated(spinner));
+	    pause(5000);
 
 	    // 7. Re-locate Calculate button AFTER refresh
 	    WebElement calculate = wait.until(
@@ -355,15 +386,14 @@ public class InvoiceListPage extends BasePage {
 	        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", calculate);
 	    }
 	    log.info("Calculate clicked");
-
 	    // 9. Wait calculation result
 	    wait.until(ExpectedConditions.invisibilityOfElementLocated(spinner));
+	    pause(4000);
 	   
-	    pause(2000);
 	    // 10. Continue
 	    fillControlTotalWithCalculatedAmount();
 	    
-	    pause(2000);
+	    pause(4000);
 	    try {
 	        wait.until(ExpectedConditions.elementToBeClickable(calculate));
 	        calculate.click();
@@ -371,7 +401,7 @@ public class InvoiceListPage extends BasePage {
 	        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", calculate);
 	    }
 	    log.info("Calculate clicked");
-	    pause(2000);
+	    pause(4000);
 	    jsClick(submitBtn);
 	    log.info("Invoice successfully created");
 	    wait.until(ExpectedConditions.invisibilityOfElementLocated(spinner));
@@ -381,7 +411,7 @@ public class InvoiceListPage extends BasePage {
 
 	    // Wait until the amount text is populated and non-zero
 	    wait.until(driver -> {
-	        String text = driver.findElement(amountField).getText(); // ✅ getText()
+	        String text = driver.findElement(amountField).getText(); 
 	        return !text.isEmpty() && !text.equals("0.00");
 	    });
 

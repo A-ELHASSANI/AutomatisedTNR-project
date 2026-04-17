@@ -80,116 +80,106 @@ public class EndToEnd2Test extends BaseTest {
 
 	// ── Step 1 – Fill requisition ─────────────────────────────────────────────
 
-    @Test(description = "TC-E2E2-01: Fill requisition and add to cart")
-    public void step01_fillRequisition() {
-        startTest("TC-E2E2-01: Fill requisition");
+	@Test(description = "TC-E2E2-01: Fill requisition and add to cart")
+	public void step01_fillRequisition() {
+		startTest("TC-E2E2-01: Fill requisition");
 
-        requisitionForm.fillQuantityLine(
-            description, supplier, commodity,
-            unitPrice, quantity,
-            DateUtils.getCurrentDate(), DateUtils.getFutureDate()
-        );
-        requisitionForm.submitForm();
-        pause(4000);
+		requisitionForm.fillQuantityLine(description, supplier, commodity, unitPrice, quantity,
+				DateUtils.getCurrentDate(), DateUtils.getFutureDate());
+		requisitionForm.submitForm();
+		pause(4000);
 
-        testReport.pass("Requisition line filled and added to cart");
-        log.info("Step 1 complete");
-    }
+		testReport.pass("Requisition line filled and added to cart");
+		log.info("Step 1 complete");
+	}
 
-    // ── Step 2 – Submit for approval ──────────────────────────────────────────
+	// ── Step 2 – Submit for approval ──────────────────────────────────────────
 
-    @Test(description    = "TC-E2E2-02: Submit requisition for approval",
-          dependsOnMethods = "step01_fillRequisition")
-    public void step02_submitForApproval() {
-        startTest("TC-E2E2-02: Submit for approval");
+	@Test(description = "TC-E2E2-02: Submit requisition for approval", dependsOnMethods = "step01_fillRequisition")
+	public void step02_submitForApproval() {
+		startTest("TC-E2E2-02: Submit for approval");
 
-        // Open basket and enrich header
-        requisitionBasket.openBasket();
-        pause(2000);
-        requisitionBasket.addAttachment(attachmentPath);
-        pause(2000);
-        requisitionBasket.addComment(comment);
-        pause(2000);
-        requisitionBasket.enterTitle(title);
-        pause(4000);
+		// Open basket and enrich header
+		requisitionBasket.openBasket();
+		pause(2000);
+		requisitionBasket.addAttachment(attachmentPath);
+		pause(2000);
+		requisitionBasket.addComment(comment);
+		pause(2000);
+		requisitionBasket.enterTitle(title);
+		pause(4000);
 
-        // Add second line
-        requisitionForm.fillAddLine(
-            description2, supplier, commodity,
-            unitPrice, quantity,
-            DateUtils.getCurrentDate(), DateUtils.getFutureDate()
-        );
-        pause(4000);
+		// Add second line
+		requisitionForm.fillAddLine(description2, supplier, commodity, unitPrice, quantity, DateUtils.getCurrentDate(),
+				DateUtils.getFutureDate());
+		pause(4000);
 
-        // Fill any missing billing accounts then submit
-        requisitionBasket.fillMissingBillingAccounts();
-        pause(3000);
-        requisitionBasket.submitForApproval();
-        pause(15000);
+		// Fill any missing billing accounts then submit
+		requisitionBasket.fillMissingBillingAccounts();
+		pause(3000);
+		requisitionBasket.submitForApproval();
+		pause(15000);
 
-        testReport.pass("Requisition submitted for approval");
-        log.info("Step 2 complete");
-    }
+		testReport.pass("Requisition submitted for approval");
+		log.info("Step 2 complete");
+	}
 
-    // ── Step 3 – Approve (3 approvers) ───────────────────────────────────────
+	// ── Step 3 – Approve (3 approvers) ───────────────────────────────────────
 
-    @Test(description    = "TC-E2E2-03: Approver 1 approves",
-          dependsOnMethods = "step02_submitForApproval")
-    public void step03_approver1() {
-        startTest("TC-E2E2-03: " + approver1 + " approves");
+	@Test(description = "TC-E2E2-03: Approver 1 approves", dependsOnMethods = "step02_submitForApproval")
+	public void step03_approver1() {
+		startTest("TC-E2E2-03: " + approver1 + " approves");
 
-        userAdmin.actAsUser(approver1);
-        pause(2000);
-        userAdmin.approveRequisition(requesterDisplayName);
-        pause(2000);
-        userAdmin.returnToAdmin();
+		userAdmin.actAsUser(approver1);
+		pause(2000);
+		userAdmin.approveRequisition(requesterDisplayName);
+		pause(2000);
+		userAdmin.returnToAdmin();
 
-        testReport.pass(approver1 + " approved successfully");
-        log.info("Step 3 complete — approver: {}", approver1);
-    }
+		testReport.pass(approver1 + " approved successfully");
+		log.info("Step 3 complete — approver: {}", approver1);
+	}
 
-    @Test(description    = "TC-E2E2-04: Approver 2 approves",
-          dependsOnMethods = "step03_approver1")
-    public void step04_approver2() {
-        startTest("TC-E2E2-04: " + approver2 + " approves");
+	@Test(description = "TC-E2E2-04: Approver 2 approves", dependsOnMethods = "step03_approver1")
+	public void step04_approver2() {
+		startTest("TC-E2E2-04: " + approver2 + " approves");
 
-        userAdmin.actAsUser(approver2);
-        pause(2000);
-        userAdmin.approveRequisition(requesterDisplayName);
-        pause(2000);
-        userAdmin.returnToAdmin();
+		userAdmin.actAsUser(approver2);
+		pause(2000);
+		userAdmin.approveRequisition(requesterDisplayName);
+		pause(2000);
+		userAdmin.returnToAdmin();
 
-        testReport.pass(approver2 + " approved successfully");
-        log.info("Step 4 complete — approver: {}", approver2);
-    }
+		testReport.pass(approver2 + " approved successfully");
+		log.info("Step 4 complete — approver: {}", approver2);
+	}
 
-    @Test(description    = "TC-E2E2-05: Approver 3 approves",
-          dependsOnMethods = "step04_approver2")
-    public void step05_approver3() {
-        startTest("TC-E2E2-05: " + approver3 + " approves");
+	@Test(description = "TC-E2E2-05: Approver 3 approves", dependsOnMethods = "step04_approver2")
+	public void step05_approver3() {
+		startTest("TC-E2E2-05: " + approver3 + " approves");
 
-        userAdmin.actAsUser(approver3);
-        pause(2000);
-        userAdmin.approveRequisition(requesterDisplayName);
-        pause(2000);
-        userAdmin.returnToAdmin();
-        pause(3000);
+		userAdmin.actAsUser(approver3);
+		pause(2000);
+		userAdmin.approveRequisition(requesterDisplayName);
+		pause(2000);
+		userAdmin.returnToAdmin();
+		pause(3000);
 
-        testReport.pass(approver3 + " approved — requisition fully approved");
-        log.info("Step 5 complete — approver: {}", approver3);
-    }
+		testReport.pass(approver3 + " approved — requisition fully approved");
+		log.info("Step 5 complete — approver: {}", approver3);
+	}
 
 	// ── Step 4 – Good Receipt ─────────────────────────────────────────────────
 
-	@Test(description = "TC-E2E2-06: Record good receipt"
-   		,dependsOnMethods = "step05_approver3")
+	@Test(description = "TC-E2E2-06: Record good receipt", dependsOnMethods = "step05_approver3")
 	public void step06_goodReceipt() {
 		startTest("TC-E2E2-06: Good receipt");
 
 		goodReceipt.receiveFirstLine(DateUtils.getDatePlusTwo());
-		pause(3000);
+		pause(2000);
 
 		testReport.pass("Good receipt recorded successfully");
+
 		log.info("Step 6 complete");
 	}
 
@@ -199,9 +189,8 @@ public class EndToEnd2Test extends BaseTest {
 			, dependsOnMethods = "step06_goodReceipt")
 	public void step07_invoice() throws Exception {
 		startTest("TC-E2E2-07: Invoice");
-
 		// Capture PO number from message bar
-		poNumber = userAdmin.getPONumber();
+		poNumber = userAdmin.getPOnumber();
 		log.info("PO Number: {}", poNumber);
 
 		// Send invoice email with the PO number
@@ -215,7 +204,7 @@ public class EndToEnd2Test extends BaseTest {
 		invoiceList.navigate();
 		invoiceList.clickCreateForMatchingRow(DateUtils.getCurrentDate());
 		pause(6000);
-        // Navigate to the new invoice (Coupa creates it after the email)
+		// Navigate to the new invoice (Coupa creates it after the email)
 //        openUrl(config.getBaseUrl() + "/invoices/xxxxx/edit");
 
 		invoiceList.removePoLine();

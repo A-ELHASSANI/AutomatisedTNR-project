@@ -5,6 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Pause;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
@@ -131,7 +132,7 @@ public class UserAdminPage extends BasePage {
         wait.until(ExpectedConditions.elementToBeClickable(approveBtn)).click();
         log.info("Approuver clicked");
 
-        pause(3000);
+        pause(6000);
 
         driver.close();
         driver.switchTo().window(mainWindow);
@@ -144,21 +145,14 @@ public class UserAdminPage extends BasePage {
      * Reads the PO number from the message bar after a requisition is approved.
      * Returns the link text (e.g. "PO-00123").
      */
-//    public String getPONumber() {
-//        WebElement el = wait.until(ExpectedConditions.visibilityOfElementLocated(poNumberElement));
-//        String po = el.getText().trim();
-//        log.info("PO number found: {}", po);
-//        return po;
-//    }
-    
-    public String getPONumber() {
+    public String getPOnumber() {
 		String mainWindow = driver.getWindowHandle();
 		log.info("Main window handle: {}", mainWindow);
 
 		wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector(".loading, .spinner, .overlay")));
 
-		By activityBtn = By.xpath("//button[.//b[normalize-space()='2 Requests using cgi france, 2 Second item in the da']]");
-
+		By activityBtn = By.xpath("//button[.//b[contains(normalize-space(),'Items from supplier with in cgi france')]]");
+		
 		WebElement btn = wait.until(ExpectedConditions.elementToBeClickable(activityBtn));
 
 		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block:'center'});", btn);

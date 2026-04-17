@@ -229,6 +229,6 @@ public class EndToEnd3Test extends BaseTest{
 //		pause(3000);
 //
 //		testReport.pass("Invoice created and linked to PO: " + poNumber);
-//		log.info("Step 7 complete — E2E 2 PASSED");
+//		log.info("Step 7 complete — E2E 3 PASSED");
 //	}
 }
