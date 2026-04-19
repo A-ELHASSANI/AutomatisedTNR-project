@@ -2,6 +2,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Good Receipt Suite">
   <test name="Good Receipt Tests">
-    <classes><class name="goodreceipt.GoodReceiptTest"/></classes>
+    <classes><class name="test.GoodReceiptTest"/></classes>
   </test>
 </suite>

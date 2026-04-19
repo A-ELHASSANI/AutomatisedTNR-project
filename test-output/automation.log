@@ -4105,3 +4105,425 @@
 2026-04-17 14:58:52.493 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@33f81280: 8 ms
 2026-04-17 14:58:52.501 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7a587e84: 7 ms
 2026-04-17 14:58:52.501 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@622ba721: 0 ms
+2026-04-17 15:29:50.095 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.102 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.107 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.107 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.108 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.109 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.110 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.110 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.121 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2026-04-17 15:29:50.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2026-04-17 15:29:50.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-17 15:29:50.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.153 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.153 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-04-17 15:29:50.163 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:29:50.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:29:50.174 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anas.elhassani\AppData\Local\Temp\testng-eclipse--815933657\testng-customsuite.xml
+
+2026-04-17 15:29:50.197 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-04-17 15:29:50.782 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.57 (resolved driver for Chrome 147)
+2026-04-17 15:29:50.829 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.57\chromedriver.exe
+2026-04-17 15:29:53.485 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-17 15:30:04.758 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-17 15:30:07.773 [main] INFO  base.BasePage - Logged in as TEMP-AELHA
+2026-04-17 15:30:13.379 [main] INFO  base.BasePage - Supplier selected: CGI FRANCE
+2026-04-17 15:30:13.694 [main] INFO  base.BasePage - Commodity selected: N020101
+2026-04-17 15:30:14.565 [main] INFO  base.BasePage - Requisition form submitted
+2026-04-17 15:30:18.585 [main] INFO  base.BasePage - Step 1 complete
+2026-04-17 15:30:22.666 [main] INFO  base.BasePage - Basket opened
+2026-04-17 15:30:25.003 [main] INFO  base.BasePage - Attachment added: C:\Users\anas.elhassani\Downloads\TEST.pdf
+2026-04-17 15:30:27.488 [main] INFO  base.BasePage - Comment added: Requisition is filled correctly
+2026-04-17 15:30:29.783 [main] INFO  base.BasePage - Title set: Requisition for Items
+2026-04-17 15:30:39.188 [main] INFO  base.BasePage - Supplier selected: CGI FRANCE
+2026-04-17 15:30:39.513 [main] INFO  base.BasePage - Commodity selected: N020101
+2026-04-17 15:30:49.409 [main] INFO  base.BasePage - 'Hors projet' selected
+2026-04-17 15:30:49.557 [main] INFO  base.BasePage - 'Choose' clicked
+2026-04-17 15:30:56.139 [main] INFO  base.BasePage - Billing account 1 filled
+2026-04-17 15:30:58.810 [main] INFO  base.BasePage - 'Hors projet' selected
+2026-04-17 15:30:58.905 [main] INFO  base.BasePage - 'Choose' clicked
+2026-04-17 15:31:05.520 [main] INFO  base.BasePage - Billing account 2 filled
+2026-04-17 15:31:05.521 [main] INFO  base.BasePage - Total billing accounts filled: 2
+2026-04-17 15:31:08.728 [main] INFO  base.BasePage - Requisition submitted for approval
+2026-04-17 15:31:23.730 [main] INFO  base.BasePage - Step 2 complete
+2026-04-17 15:31:34.775 [main] INFO  base.BasePage - Acting as user: KARIM SANKHON
+2026-04-17 15:31:36.993 [main] INFO  base.BasePage - Looking for requisition by: Anas ELHASSANI
+2026-04-17 15:31:40.093 [main] INFO  base.BasePage - Switched to approval window: https://accorhotels-test.coupahost.com/requisition_headers/164247?close_when_done=false
+2026-04-17 15:31:44.948 [main] INFO  base.BasePage - Approuver clicked
+2026-04-17 15:31:51.081 [main] INFO  base.BasePage - Approval window closed, back to main window
+2026-04-17 15:31:56.903 [main] INFO  base.BasePage - Returned to admin account
+2026-04-17 15:31:56.904 [main] INFO  base.BasePage - Step 3 complete — approver: KARIM SANKHON
+2026-04-17 15:32:05.800 [main] INFO  base.BasePage - Acting as user: Guillaume TAP
+2026-04-17 15:32:07.986 [main] INFO  base.BasePage - Looking for requisition by: Anas ELHASSANI
+2026-04-17 15:32:10.285 [main] INFO  base.BasePage - Switched to approval window: https://accorhotels-test.coupahost.com/requisition_headers/164247?close_when_done=false
+2026-04-17 15:32:13.319 [main] INFO  base.BasePage - Approuver clicked
+2026-04-17 15:32:19.399 [main] INFO  base.BasePage - Approval window closed, back to main window
+2026-04-17 15:32:24.090 [main] INFO  base.BasePage - Returned to admin account
+2026-04-17 15:32:24.091 [main] INFO  base.BasePage - Step 4 complete — approver: Guillaume TAP
+2026-04-17 15:32:31.971 [main] INFO  base.BasePage - Acting as user: CYRIL PLANCHE
+2026-04-17 15:32:34.218 [main] INFO  base.BasePage - Looking for requisition by: Anas ELHASSANI
+2026-04-17 15:32:36.513 [main] INFO  base.BasePage - Switched to approval window: https://accorhotels-test.coupahost.com/requisition_headers/164247?close_when_done=false
+2026-04-17 15:32:43.779 [main] INFO  base.BasePage - Approuver clicked
+2026-04-17 15:32:49.855 [main] INFO  base.BasePage - Approval window closed, back to main window
+2026-04-17 15:32:55.832 [main] INFO  base.BasePage - Returned to admin account
+2026-04-17 15:32:58.846 [main] INFO  base.BasePage - Step 5 complete — approver: CYRIL PLANCHE
+2026-04-17 15:33:03.490 [main] INFO  base.BasePage - Navigated to Requests
+2026-04-17 15:33:05.301 [main] INFO  base.BasePage - Receive button clicked for user: Anas ELHASSANI
+2026-04-17 15:33:05.571 [main] INFO  base.BasePage - Receipt date set: 04/19/26
+2026-04-17 15:33:05.983 [main] INFO  base.BasePage - Receipt submitted
+2026-04-17 15:33:19.936 [main] INFO  base.BasePage - Step 6 complete
+2026-04-17 15:33:19.964 [main] INFO  base.BasePage - Main window handle: 7760F0BA14EF22C3EB83A472DC8E33AE
+2026-04-17 15:33:20.330 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-17 15:33:22.444 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164247
+2026-04-17 15:33:22.482 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119473
+2026-04-17 15:33:22.482 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119473
+2026-04-17 15:33:22.483 [main] INFO  base.BasePage - PO Number: PO-HQ00119473
+2026-04-17 15:35:36.085 [main] INFO  base.BasePage - Acting as user: CORALIE MANIOU
+2026-04-17 15:35:52.697 [main] INFO  base.BasePage - Navigated to Invoices
+2026-04-17 15:35:56.252 [main] INFO  base.BasePage - Navigated to Invoice Inbox via href
+2026-04-17 15:35:57.642 [main] INFO  base.BasePage - Filter condition set to: today
+2026-04-17 15:36:13.930 [main] INFO  base.BasePage - Browser closed
+2026-04-17 15:36:14.505 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4a7db5a: 102 ms
+2026-04-17 15:36:14.536 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@97beeaf: 31 ms
+2026-04-17 15:36:14.553 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1e4d8770: 17 ms
+2026-04-17 15:36:14.563 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7962a746: 10 ms
+2026-04-17 15:36:14.578 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1fc5c0b2: 14 ms
+2026-04-17 15:36:14.579 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@45ad3cd8: 0 ms
+2026-04-17 15:55:29.663 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-17 15:55:29.674 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-04-17 15:55:29.675 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.676 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.677 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.677 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.678 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.678 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.685 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-04-17 15:55:29.700 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2026-04-17 15:55:29.701 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.702 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.702 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.702 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.703 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.703 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.705 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.705 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.706 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.707 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.709 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.710 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.710 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.710 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.716 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2026-04-17 15:55:29.716 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.718 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.718 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.718 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 15:55:29.718 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 15:55:29.727 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anas.elhassani\AppData\Local\Temp\testng-eclipse-752292993\testng-customsuite.xml
+
+2026-04-17 15:55:29.744 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-04-17 15:55:31.206 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.57 (resolved driver for Chrome 147)
+2026-04-17 15:55:31.236 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.57\chromedriver.exe
+2026-04-17 15:55:33.955 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-17 15:55:40.983 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-17 15:55:43.999 [main] INFO  base.BasePage - Logged in as TEMP-AELHA
+2026-04-17 15:55:44.078 [main] INFO  base.BasePage - Main window handle: C03A1564C7E20077DE13616309622EEB
+2026-04-17 15:55:44.507 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-17 15:55:47.530 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164247
+2026-04-17 15:55:47.585 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119473
+2026-04-17 15:55:47.586 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119473
+2026-04-17 15:55:47.586 [main] INFO  base.BasePage - PO Number: PO-HQ00119473
+2026-04-17 15:55:55.860 [main] INFO  base.BasePage - Acting as user: CORALIE MANIOU
+2026-04-17 15:56:10.569 [main] INFO  base.BasePage - Navigated to Invoices
+2026-04-17 15:56:13.058 [main] INFO  base.BasePage - Navigated to Invoice Inbox via href
+2026-04-17 15:56:14.392 [main] INFO  base.BasePage - Filter condition set to: today
+2026-04-17 15:56:51.997 [main] INFO  base.BasePage - Create button clicked on attempt 1
+2026-04-17 15:56:58.732 [main] INFO  base.BasePage - 🔍 Clicking 'Pick lines from PO' button...
+2026-04-17 15:57:01.907 [main] INFO  base.BasePage - Standard click succeeded
+2026-04-17 15:57:01.907 [main] INFO  base.BasePage - 'Pick lines from PO' clicked
+2026-04-17 15:57:01.908 [main] INFO  base.BasePage -  Waiting for PO selection modal...
+2026-04-17 15:57:01.908 [main] INFO  base.BasePage - PO selection modal is ready
+2026-04-17 15:57:01.908 [main] INFO  base.BasePage - Searching for PO: PO-HQ00119473
+2026-04-17 15:57:06.706 [main] INFO  base.BasePage - ✅ PO search completed for: PO-HQ00119473
+2026-04-17 15:57:06.707 [main] INFO  base.BasePage - Clicking 'Add to invoice' for selected PO line...
+2026-04-17 15:57:06.923 [main] INFO  base.BasePage - Standard click succeeded
+2026-04-17 15:57:44.125 [main] INFO  base.BasePage - ✅ PO line successfully added to invoice
+2026-04-17 15:57:49.027 [main] INFO  base.BasePage - ✅ RemitTo successfully added to invoice
+2026-04-17 15:57:49.149 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-17 15:57:52.305 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-17 15:57:52.380 [main] INFO  base.BasePage - Tax code selected: FR: 0DEENC-00.0 - TVA FRANCE DEDUCTIBLE ENCAISSEMENTS B... - 0.0%
+2026-04-17 15:57:57.616 [main] INFO  base.BasePage - Calculate clicked
+2026-04-17 15:58:01.727 [main] INFO  base.BasePage - Captured amount: 50.00
+2026-04-17 15:58:06.130 [main] INFO  base.BasePage - Calculate clicked
+2026-04-17 15:58:10.216 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-17 15:58:22.572 [main] INFO  base.BasePage - Returned to admin account
+2026-04-17 15:58:25.596 [main] INFO  base.BasePage - Step 7 complete — E2E 2 PASSED
+2026-04-17 15:58:26.055 [main] INFO  base.BasePage - Browser closed
+2026-04-17 15:58:26.372 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@282c4da0: 66 ms
+2026-04-17 15:58:26.373 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@10618775: 1 ms
+2026-04-17 15:58:26.378 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2c60ce47: 5 ms
+2026-04-17 15:58:26.383 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@760f1081: 4 ms
+2026-04-17 15:58:26.388 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@14457a95: 5 ms
+2026-04-17 15:58:26.388 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@48567727: 0 ms
+2026-04-17 16:02:24.193 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-17 16:02:24.201 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.202 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.203 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.210 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-04-17 16:02:24.226 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2026-04-17 16:02:24.228 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.228 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.229 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.229 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.234 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.234 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.235 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.235 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.246 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.251 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2026-04-17 16:02:24.252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:02:24.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:02:24.260 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anas.elhassani\AppData\Local\Temp\testng-eclipse--1082744722\testng-customsuite.xml
+
+2026-04-17 16:02:24.276 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-04-17 16:02:24.826 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.57 (resolved driver for Chrome 147)
+2026-04-17 16:02:24.852 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.57\chromedriver.exe
+2026-04-17 16:02:27.935 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-17 16:02:34.580 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-17 16:02:37.589 [main] INFO  base.BasePage - Logged in as TEMP-AELHA
+2026-04-17 16:02:42.340 [main] INFO  base.BasePage - Supplier selected: CGI FRANCE
+2026-04-17 16:02:42.697 [main] INFO  base.BasePage - Commodity selected: N020101
+2026-04-17 16:02:43.632 [main] INFO  base.BasePage - Requisition form submitted
+2026-04-17 16:02:47.649 [main] INFO  base.BasePage - Step 1 complete
+2026-04-17 16:02:51.688 [main] INFO  base.BasePage - Basket opened
+2026-04-17 16:02:53.927 [main] INFO  base.BasePage - Attachment added: C:\Users\anas.elhassani\Downloads\TEST.pdf
+2026-04-17 16:02:56.389 [main] INFO  base.BasePage - Comment added: Requisition is filled correctly
+2026-04-17 16:02:58.715 [main] INFO  base.BasePage - Title set: Requisition for Items
+2026-04-17 16:03:07.718 [main] INFO  base.BasePage - Supplier selected: CGI FRANCE
+2026-04-17 16:03:08.106 [main] INFO  base.BasePage - Commodity selected: N020101
+2026-04-17 16:03:17.202 [main] INFO  base.BasePage - 'Hors projet' selected
+2026-04-17 16:03:17.385 [main] INFO  base.BasePage - 'Choose' clicked
+2026-04-17 16:03:23.979 [main] INFO  base.BasePage - Billing account 1 filled
+2026-04-17 16:03:25.608 [main] INFO  base.BasePage - 'Hors projet' selected
+2026-04-17 16:03:25.790 [main] INFO  base.BasePage - 'Choose' clicked
+2026-04-17 16:03:32.357 [main] INFO  base.BasePage - Billing account 2 filled
+2026-04-17 16:03:32.358 [main] INFO  base.BasePage - Total billing accounts filled: 2
+2026-04-17 16:03:35.556 [main] INFO  base.BasePage - Requisition submitted for approval
+2026-04-17 16:03:50.566 [main] INFO  base.BasePage - Step 2 complete
+2026-04-17 16:03:58.737 [main] INFO  base.BasePage - Acting as user: KARIM SANKHON
+2026-04-17 16:04:00.964 [main] INFO  base.BasePage - Looking for requisition by: Anas ELHASSANI
+2026-04-17 16:04:03.394 [main] INFO  base.BasePage - Switched to approval window: https://accorhotels-test.coupahost.com/requisition_headers/164249?close_when_done=false
+2026-04-17 16:04:07.240 [main] INFO  base.BasePage - Approuver clicked
+2026-04-17 16:04:13.336 [main] INFO  base.BasePage - Approval window closed, back to main window
+2026-04-17 16:04:17.768 [main] INFO  base.BasePage - Returned to admin account
+2026-04-17 16:04:17.770 [main] INFO  base.BasePage - Step 3 complete — approver: KARIM SANKHON
+2026-04-17 16:04:25.161 [main] INFO  base.BasePage - Acting as user: Guillaume TAP
+2026-04-17 16:04:27.370 [main] INFO  base.BasePage - Looking for requisition by: Anas ELHASSANI
+2026-04-17 16:04:29.421 [main] INFO  base.BasePage - Switched to approval window: https://accorhotels-test.coupahost.com/requisition_headers/164249?close_when_done=false
+2026-04-17 16:04:33.190 [main] INFO  base.BasePage - Approuver clicked
+2026-04-17 16:04:39.271 [main] INFO  base.BasePage - Approval window closed, back to main window
+2026-04-17 16:04:43.262 [main] INFO  base.BasePage - Returned to admin account
+2026-04-17 16:04:43.263 [main] INFO  base.BasePage - Step 4 complete — approver: Guillaume TAP
+2026-04-17 16:04:49.923 [main] INFO  base.BasePage - Acting as user: CYRIL PLANCHE
+2026-04-17 16:04:52.139 [main] INFO  base.BasePage - Looking for requisition by: Anas ELHASSANI
+2026-04-17 16:04:54.081 [main] INFO  base.BasePage - Switched to approval window: https://accorhotels-test.coupahost.com/requisition_headers/164249?close_when_done=false
+2026-04-17 16:04:59.669 [main] INFO  base.BasePage - Approuver clicked
+2026-04-17 16:05:05.744 [main] INFO  base.BasePage - Approval window closed, back to main window
+2026-04-17 16:05:09.765 [main] INFO  base.BasePage - Returned to admin account
+2026-04-17 16:05:12.779 [main] INFO  base.BasePage - Step 5 complete — approver: CYRIL PLANCHE
+2026-04-17 16:05:16.888 [main] INFO  base.BasePage - Navigated to Requests
+2026-04-17 16:05:18.475 [main] INFO  base.BasePage - Receive button clicked for user: Anas ELHASSANI
+2026-04-17 16:05:18.681 [main] INFO  base.BasePage - Receipt date set: 04/19/26
+2026-04-17 16:05:19.123 [main] INFO  base.BasePage - Receipt submitted
+2026-04-17 16:05:33.012 [main] INFO  base.BasePage - Step 6 complete
+2026-04-17 16:05:33.024 [main] INFO  base.BasePage - Main window handle: 032E13BCC19560A6A24E33DB3A67F760
+2026-04-17 16:05:33.382 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-17 16:05:35.324 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164249
+2026-04-17 16:05:35.400 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119474
+2026-04-17 16:05:35.400 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119474
+2026-04-17 16:05:35.400 [main] INFO  base.BasePage - PO Number: PO-HQ00119474
+2026-04-17 16:06:05.413 [main] INFO  base.BasePage - Acting as user: CORALIE MANIOU
+2026-04-17 16:06:18.970 [main] INFO  base.BasePage - Navigated to Invoices
+2026-04-17 16:06:21.369 [main] INFO  base.BasePage - Navigated to Invoice Inbox via href
+2026-04-17 16:06:22.685 [main] INFO  base.BasePage - Filter condition set to: today
+2026-04-17 16:06:28.224 [main] WARN  base.BasePage - Create button not visible (attempt 1), waiting 60s then refreshing...
+2026-04-17 16:07:34.791 [main] WARN  base.BasePage - Create button not visible (attempt 2), waiting 60s then refreshing...
+2026-04-17 16:08:44.535 [main] INFO  base.BasePage - Create button clicked on attempt 3
+2026-04-17 16:08:51.221 [main] INFO  base.BasePage - 🔍 Clicking 'Pick lines from PO' button...
+2026-04-17 16:08:54.493 [main] INFO  base.BasePage - Standard click succeeded
+2026-04-17 16:08:54.494 [main] INFO  base.BasePage - 'Pick lines from PO' clicked
+2026-04-17 16:08:54.494 [main] INFO  base.BasePage -  Waiting for PO selection modal...
+2026-04-17 16:08:54.494 [main] INFO  base.BasePage - PO selection modal is ready
+2026-04-17 16:08:54.494 [main] INFO  base.BasePage - Searching for PO: PO-HQ00119474
+2026-04-17 16:09:10.378 [main] INFO  base.BasePage - Browser closed
+2026-04-17 16:09:10.770 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@c87787d: 88 ms
+2026-04-17 16:09:10.786 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@574218f: 16 ms
+2026-04-17 16:09:10.800 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@56402642: 14 ms
+2026-04-17 16:09:10.809 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1939a394: 9 ms
+2026-04-17 16:09:10.816 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@49f2646: 7 ms
+2026-04-17 16:09:10.817 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4b00d59: 1 ms
+2026-04-17 16:12:35.578 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-17 16:12:35.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:12:35.587 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.588 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:12:35.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-17 16:12:35.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:12:35.597 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-04-17 16:12:35.613 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2026-04-17 16:12:35.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:12:35.616 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.616 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:12:35.616 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.617 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:12:35.620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:12:35.622 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.623 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-17 16:12:35.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:12:35.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.627 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:12:35.628 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-17 16:12:35.635 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2026-04-17 16:12:35.638 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.638 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:12:35.638 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-17 16:12:35.638 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-17 16:12:35.647 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anas.elhassani\AppData\Local\Temp\testng-eclipse--490892892\testng-customsuite.xml
+
+2026-04-17 16:12:35.668 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-04-17 16:12:36.278 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.57 (resolved driver for Chrome 147)
+2026-04-17 16:12:36.315 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.57\chromedriver.exe
+2026-04-17 16:12:38.973 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-17 16:12:44.428 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-17 16:12:47.431 [main] INFO  base.BasePage - Logged in as TEMP-AELHA
+2026-04-17 16:12:51.809 [main] INFO  base.BasePage - Supplier selected: CGI FRANCE
+2026-04-17 16:12:52.450 [main] INFO  base.BasePage - Commodity selected: N020101
+2026-04-17 16:12:54.029 [main] INFO  base.BasePage - Requisition form submitted
+2026-04-17 16:12:58.052 [main] INFO  base.BasePage - Step 1 complete
+2026-04-17 16:13:02.054 [main] INFO  base.BasePage - Basket opened
+2026-04-17 16:13:04.381 [main] INFO  base.BasePage - Attachment added: C:\Users\anas.elhassani\Downloads\TEST.pdf
+2026-04-17 16:13:06.886 [main] INFO  base.BasePage - Comment added: Requisition is filled correctly
+2026-04-17 16:13:09.178 [main] INFO  base.BasePage - Title set: Requisition for Items
+2026-04-17 16:13:18.177 [main] INFO  base.BasePage - Supplier selected: CGI FRANCE
+2026-04-17 16:13:18.624 [main] INFO  base.BasePage - Commodity selected: N020101
+2026-04-17 16:13:27.538 [main] INFO  base.BasePage - 'Hors projet' selected
+2026-04-17 16:13:27.712 [main] INFO  base.BasePage - 'Choose' clicked
+2026-04-17 16:13:34.319 [main] INFO  base.BasePage - Billing account 1 filled
+2026-04-17 16:13:36.035 [main] INFO  base.BasePage - 'Hors projet' selected
+2026-04-17 16:13:36.208 [main] INFO  base.BasePage - 'Choose' clicked
+2026-04-17 16:13:42.795 [main] INFO  base.BasePage - Billing account 2 filled
+2026-04-17 16:13:42.796 [main] INFO  base.BasePage - Total billing accounts filled: 2
+2026-04-17 16:13:46.091 [main] INFO  base.BasePage - Requisition submitted for approval
+2026-04-17 16:14:01.103 [main] INFO  base.BasePage - Step 2 complete
+2026-04-17 16:14:09.070 [main] INFO  base.BasePage - Acting as user: KARIM SANKHON
+2026-04-17 16:14:11.383 [main] INFO  base.BasePage - Looking for requisition by: Anas ELHASSANI
+2026-04-17 16:14:13.761 [main] INFO  base.BasePage - Switched to approval window: https://accorhotels-test.coupahost.com/requisition_headers/164250?close_when_done=false
+2026-04-17 16:14:17.780 [main] INFO  base.BasePage - Approuver clicked
+2026-04-17 16:14:23.891 [main] INFO  base.BasePage - Approval window closed, back to main window
+2026-04-17 16:14:27.876 [main] INFO  base.BasePage - Returned to admin account
+2026-04-17 16:14:27.877 [main] INFO  base.BasePage - Step 3 complete — approver: KARIM SANKHON
+2026-04-17 16:14:34.938 [main] INFO  base.BasePage - Acting as user: Guillaume TAP
+2026-04-17 16:14:37.131 [main] INFO  base.BasePage - Looking for requisition by: Anas ELHASSANI
+2026-04-17 16:14:39.249 [main] INFO  base.BasePage - Switched to approval window: https://accorhotels-test.coupahost.com/requisition_headers/164250?close_when_done=false
+2026-04-17 16:14:42.324 [main] INFO  base.BasePage - Approuver clicked
+2026-04-17 16:14:48.443 [main] INFO  base.BasePage - Approval window closed, back to main window
+2026-04-17 16:14:53.098 [main] INFO  base.BasePage - Returned to admin account
+2026-04-17 16:14:53.099 [main] INFO  base.BasePage - Step 4 complete — approver: Guillaume TAP
+2026-04-17 16:15:02.111 [main] INFO  base.BasePage - Acting as user: CYRIL PLANCHE
+2026-04-17 16:15:04.360 [main] INFO  base.BasePage - Looking for requisition by: Anas ELHASSANI
+2026-04-17 16:15:06.513 [main] INFO  base.BasePage - Switched to approval window: https://accorhotels-test.coupahost.com/requisition_headers/164250?close_when_done=false
+2026-04-17 16:15:12.515 [main] INFO  base.BasePage - Approuver clicked
+2026-04-17 16:15:18.628 [main] INFO  base.BasePage - Approval window closed, back to main window
+2026-04-17 16:15:22.804 [main] INFO  base.BasePage - Returned to admin account
+2026-04-17 16:15:25.815 [main] INFO  base.BasePage - Step 5 complete — approver: CYRIL PLANCHE
+2026-04-17 16:15:30.881 [main] INFO  base.BasePage - Navigated to Requests
+2026-04-17 16:15:32.853 [main] INFO  base.BasePage - Receive button clicked for user: Anas ELHASSANI
+2026-04-17 16:15:33.068 [main] INFO  base.BasePage - Receipt date set: 04/19/26
+2026-04-17 16:15:33.517 [main] INFO  base.BasePage - Receipt submitted
+2026-04-17 16:15:47.866 [main] INFO  base.BasePage - Step 6 complete
+2026-04-17 16:15:47.886 [main] INFO  base.BasePage - Main window handle: D1CF4BB650816A9F9F529F5CC05DB342
+2026-04-17 16:15:48.296 [main] INFO  base.BasePage - Waiting for new window to open...
+2026-04-17 16:15:50.601 [main] INFO  base.BasePage - Switched to new window. URL: https://accorhotels-test.coupahost.com/requisition_headers/164250
+2026-04-17 16:15:50.699 [main] INFO  base.BasePage - Raw PO text: PO #PO-HQ00119475
+2026-04-17 16:15:50.700 [main] INFO  base.BasePage - Extracted PO number: PO-HQ00119475
+2026-04-17 16:15:50.701 [main] INFO  base.BasePage - PO Number: PO-HQ00119475
+2026-04-17 16:16:21.592 [main] INFO  base.BasePage - Acting as user: CORALIE MANIOU
+2026-04-17 16:16:35.624 [main] INFO  base.BasePage - Navigated to Invoices
+2026-04-17 16:16:38.362 [main] INFO  base.BasePage - Navigated to Invoice Inbox via href
+2026-04-17 16:16:40.099 [main] INFO  base.BasePage - Filter condition set to: today
+2026-04-17 16:16:45.643 [main] WARN  base.BasePage - Create button not visible (attempt 1), waiting 60s then refreshing...
+2026-04-17 16:17:52.588 [main] WARN  base.BasePage - Create button not visible (attempt 2), waiting 60s then refreshing...
+2026-04-17 16:19:00.231 [main] WARN  base.BasePage - Create button not visible (attempt 3), waiting 60s then refreshing...
+2026-04-17 16:20:06.655 [main] WARN  base.BasePage - Create button not visible (attempt 4), waiting 60s then refreshing...
+2026-04-17 16:21:16.213 [main] INFO  base.BasePage - Create button clicked on attempt 5
+2026-04-17 16:21:23.022 [main] INFO  base.BasePage - 🔍 Clicking 'Pick lines from PO' button...
+2026-04-17 16:21:26.344 [main] INFO  base.BasePage - Standard click succeeded
+2026-04-17 16:21:26.344 [main] INFO  base.BasePage - 'Pick lines from PO' clicked
+2026-04-17 16:21:26.345 [main] INFO  base.BasePage -  Waiting for PO selection modal...
+2026-04-17 16:21:26.345 [main] INFO  base.BasePage - PO selection modal is ready
+2026-04-17 16:21:26.345 [main] INFO  base.BasePage - Searching for PO: PO-HQ00119475
+2026-04-17 16:21:32.639 [main] INFO  base.BasePage - ✅ PO search completed for: PO-HQ00119475
+2026-04-17 16:21:32.640 [main] INFO  base.BasePage - Clicking 'Add to invoice' for selected PO line...
+2026-04-17 16:21:32.941 [main] INFO  base.BasePage - Standard click succeeded
+2026-04-17 16:21:40.767 [main] INFO  base.BasePage - ✅ PO line successfully added to invoice
+2026-04-17 16:21:45.789 [main] INFO  base.BasePage - ✅ RemitTo successfully added to invoice
+2026-04-17 16:21:45.994 [main] INFO  base.BasePage - Checkbox clicked
+2026-04-17 16:21:49.172 [main] INFO  base.BasePage - Tax code dropdown opened
+2026-04-17 16:21:49.267 [main] INFO  base.BasePage - Tax code selected: FR: 0DEENC-00.0 - TVA FRANCE DEDUCTIBLE ENCAISSEMENTS B... - 0.0%
+2026-04-17 16:21:54.508 [main] INFO  base.BasePage - Calculate clicked
+2026-04-17 16:21:58.634 [main] INFO  base.BasePage - Captured amount: 50.00
+2026-04-17 16:22:02.985 [main] INFO  base.BasePage - Calculate clicked
+2026-04-17 16:22:07.091 [main] INFO  base.BasePage - Invoice successfully created
+2026-04-17 16:22:20.481 [main] INFO  base.BasePage - Returned to admin account
+2026-04-17 16:22:23.495 [main] INFO  base.BasePage - Step 7 complete — E2E 2 PASSED
+2026-04-17 16:22:24.437 [main] INFO  base.BasePage - Browser closed
+2026-04-17 16:22:25.240 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@787a0fd6: 145 ms
+2026-04-17 16:22:25.243 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@25110bb9: 2 ms
+2026-04-17 16:22:25.269 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2e66f1bd: 26 ms
+2026-04-17 16:22:25.281 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@15bb8ed5: 12 ms
+2026-04-17 16:22:25.297 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@740ee00f: 15 ms
+2026-04-17 16:22:25.297 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@430106cf: 0 ms
+2026-04-17 17:56:20.372 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anas.elhassani\eclipse-workspace\AutomatisedTNR-project\src\test\resources\testng-e2e.xml
+
+2026-04-17 17:56:21.865 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.57 (resolved driver for Chrome 147)
+2026-04-17 17:56:21.898 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\anas.elhassani\.cache\selenium\chromedriver\win64\147.0.7727.57\chromedriver.exe
+2026-04-17 17:56:24.957 [main] INFO  base.BasePage - Opened URL: https://accorhotels-test.coupahost.com/sessions/new
+2026-04-17 17:56:31.713 [main] INFO  base.BasePage - Login submitted for user: TEMP-AELHA
+2026-04-17 17:56:34.718 [main] INFO  base.BasePage - Logged in as TEMP-AELHA

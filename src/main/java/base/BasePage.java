@@ -42,24 +42,6 @@ public class BasePage {
 		wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 	}
 
-//	public void setup() {
-//	WebDriverManager.chromedriver().setup();
-//
-//	ChromeOptions options = new ChromeOptions();
-//	options.addArguments("--start-maximized");
-//	if (config.isHeadless()) {
-//		options.addArguments("--headless=new", "--disable-gpu", "--window-size=1920,1080");
-//	}
-//
-//	driver = new ChromeDriver(options);
-//	driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(config.getInt("timeout.page.load")));
-//	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(config.getInt("timeout.implicit")));
-//	wait = new WebDriverWait(driver, Duration.ofSeconds(config.getExplicitTimeout()));
-//	log.info("Browser started");
-//}
-	/**
-	 * Ferme proprement le navigateur
-	 */
 	public void tearDown() {
 
 		if (driver != null) {

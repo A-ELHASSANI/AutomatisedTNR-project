@@ -9,9 +9,6 @@ public class EmailSender {
 
     public void sendInvoiceEmail(String poNumber) {
 
-//        final String username = "elhassani.anas06@gmail.com";
-//        final String password = "kixx mcfo lqqh wlhv"; 
-        
         final String username = "r44.aspen@gmail.com";
         final String password = "bnbe ghzv uphv tzcl"; 
         

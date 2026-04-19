@@ -4,51 +4,51 @@
 
   <test name="Supplier Tests">
     <classes>
-      <class name="supplier.SupplierTest"/>
+      <class name="test.SupplierTest"/>
     </classes>
   </test>
 
   <test name="Requisition Tests">
     <classes>
-      <class name="requisition.RequisitionTest"/>
+      <class name="test.RequisitionTest"/>
     </classes>
   </test>
 
   <test name="Good Receipt Tests">
     <classes>
-      <class name="goodreceipt.GoodReceiptTest"/>
+      <class name="test.GoodReceiptTest"/>
     </classes>
   </test>
 
   <test name="Purchase Order Tests">
     <classes>
-      <class name="purchaseorder.PurchaseOrderTest"/>
+      <class name="test.PurchaseOrderTest"/>
     </classes>
   </test>
 
   <test name="Invoice Tests">
     <classes>
-      <class name="invoice.InvoiceTest"/>
+      <class name="test.InvoiceTest"/>
     </classes>
   </test>
 
   <test name="Approvals Tests">
     <classes>
-      <class name="approvals.ApprovalsTest"/>
+      <class name="test.ApprovalsTest"/>
     </classes>
   </test>
 
   <test name="System Admin Tests">
     <classes>
-      <class name="admin.SystemAdminTest"/>
+      <class name="test.SystemAdminTest"/>
     </classes>
   </test>
 
   <test name="End-to-End Tests">
     <classes>
-      <class name="e2e.EndToEndTest1"/>
-      <class name="e2e.EndToEndTest2"/>
-      <class name="e2e.EndToEndTest3"/>
+      <class name="test.EndToEndTest1"/>
+      <class name="test.EndToEndTest2"/>
+      <class name="test.EndToEndTest3"/>
     </classes>
   </test>
 

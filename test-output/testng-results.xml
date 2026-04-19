@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-17T14:52:13 WEST" name="Default suite" finished-at="2026-04-17T14:58:52 WEST" duration-ms="399349">
+  <suite started-at="2026-04-17T16:12:35 WEST" name="Default suite" finished-at="2026-04-17T16:22:25 WEST" duration-ms="589382">
     <groups>
     </groups>
-    <test started-at="2026-04-17T14:52:13 WEST" name="Default test" finished-at="2026-04-17T14:58:52 WEST" duration-ms="399349">
+    <test started-at="2026-04-17T16:12:35 WEST" name="Default test" finished-at="2026-04-17T16:22:25 WEST" duration-ms="589382">
       <class name="test.EndToEnd2Test">
-        <test-method is-config="true" signature="initSuite()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:52:13 WEST" name="initSuite" finished-at="2026-04-17T14:52:13 WEST" duration-ms="186" status="PASS">
+        <test-method is-config="true" signature="initSuite()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:12:35 WEST" name="initSuite" finished-at="2026-04-17T16:12:35 WEST" duration-ms="189" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initSuite -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:52:13 WEST" name="setUp" finished-at="2026-04-17T14:52:22 WEST" duration-ms="9314" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:12:35 WEST" name="setUp" finished-at="2026-04-17T16:12:47 WEST" duration-ms="11586" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="step01_fillRequisition()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:52:22 WEST" name="step01_fillRequisition" description="TC-E2E2-01: Fill requisition and add to cart" finished-at="2026-04-17T14:52:39 WEST" duration-ms="16626" status="PASS">
+        <test-method signature="step01_fillRequisition()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:12:47 WEST" name="step01_fillRequisition" description="TC-E2E2-01: Fill requisition and add to cart" finished-at="2026-04-17T16:12:58 WEST" duration-ms="10576" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step01_fillRequisition -->
-        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:52:39 WEST" name="captureResultOnFailure" finished-at="2026-04-17T14:52:39 WEST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:12:58 WEST" name="captureResultOnFailure" finished-at="2026-04-17T16:12:58 WEST" duration-ms="6" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -30,11 +30,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureResultOnFailure -->
-        <test-method signature="step02_submitForApproval()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:52:39 WEST" name="step02_submitForApproval" description="TC-E2E2-02: Submit requisition for approval" finished-at="2026-04-17T14:53:41 WEST" depends-on-methods="test.EndToEnd2Test.step01_fillRequisition" duration-ms="62301" status="PASS">
+        <test-method signature="step02_submitForApproval()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:12:58 WEST" name="step02_submitForApproval" description="TC-E2E2-02: Submit requisition for approval" finished-at="2026-04-17T16:14:01 WEST" depends-on-methods="test.EndToEnd2Test.step01_fillRequisition" duration-ms="63012" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step02_submitForApproval -->
-        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:53:41 WEST" name="captureResultOnFailure" finished-at="2026-04-17T14:53:41 WEST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:14:01 WEST" name="captureResultOnFailure" finished-at="2026-04-17T16:14:01 WEST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -45,11 +45,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureResultOnFailure -->
-        <test-method signature="step03_approver1()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:53:41 WEST" name="step03_approver1" description="TC-E2E2-03: Approver 1 approves" finished-at="2026-04-17T14:54:13 WEST" depends-on-methods="test.EndToEnd2Test.step02_submitForApproval" duration-ms="31587" status="PASS">
+        <test-method signature="step03_approver1()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:14:01 WEST" name="step03_approver1" description="TC-E2E2-03: Approver 1 approves" finished-at="2026-04-17T16:14:27 WEST" depends-on-methods="test.EndToEnd2Test.step02_submitForApproval" duration-ms="26765" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step03_approver1 -->
-        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:54:13 WEST" name="captureResultOnFailure" finished-at="2026-04-17T14:54:13 WEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:14:27 WEST" name="captureResultOnFailure" finished-at="2026-04-17T16:14:27 WEST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -60,11 +60,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureResultOnFailure -->
-        <test-method signature="step04_approver2()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:54:13 WEST" name="step04_approver2" description="TC-E2E2-04: Approver 2 approves" finished-at="2026-04-17T14:54:38 WEST" depends-on-methods="test.EndToEnd2Test.step03_approver1" duration-ms="25336" status="PASS">
+        <test-method signature="step04_approver2()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:14:27 WEST" name="step04_approver2" description="TC-E2E2-04: Approver 2 approves" finished-at="2026-04-17T16:14:53 WEST" depends-on-methods="test.EndToEnd2Test.step03_approver1" duration-ms="25216" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step04_approver2 -->
-        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:54:38 WEST" name="captureResultOnFailure" finished-at="2026-04-17T14:54:38 WEST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:14:53 WEST" name="captureResultOnFailure" finished-at="2026-04-17T16:14:53 WEST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,11 +75,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureResultOnFailure -->
-        <test-method signature="step05_approver3()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:54:38 WEST" name="step05_approver3" description="TC-E2E2-05: Approver 3 approves" finished-at="2026-04-17T14:55:09 WEST" depends-on-methods="test.EndToEnd2Test.step04_approver2" duration-ms="30769" status="PASS">
+        <test-method signature="step05_approver3()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:14:53 WEST" name="step05_approver3" description="TC-E2E2-05: Approver 3 approves" finished-at="2026-04-17T16:15:25 WEST" depends-on-methods="test.EndToEnd2Test.step04_approver2" duration-ms="32712" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step05_approver3 -->
-        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:55:09 WEST" name="captureResultOnFailure" finished-at="2026-04-17T14:55:09 WEST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:15:25 WEST" name="captureResultOnFailure" finished-at="2026-04-17T16:15:25 WEST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -90,11 +90,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureResultOnFailure -->
-        <test-method signature="step06_goodReceipt()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:55:09 WEST" name="step06_goodReceipt" description="TC-E2E2-06: Record good receipt" finished-at="2026-04-17T14:55:30 WEST" depends-on-methods="test.EndToEnd2Test.step05_approver3" duration-ms="21012" status="PASS">
+        <test-method signature="step06_goodReceipt()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:15:25 WEST" name="step06_goodReceipt" description="TC-E2E2-06: Record good receipt" finished-at="2026-04-17T16:15:47 WEST" depends-on-methods="test.EndToEnd2Test.step05_approver3" duration-ms="22049" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step06_goodReceipt -->
-        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:55:30 WEST" name="captureResultOnFailure" finished-at="2026-04-17T14:55:30 WEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:15:47 WEST" name="captureResultOnFailure" finished-at="2026-04-17T16:15:47 WEST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -105,15 +105,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureResultOnFailure -->
-        <test-method signature="step07_invoice()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:55:30 WEST" name="step07_invoice" description="TC-E2E2-07: Send invoice email and process invoice" finished-at="2026-04-17T14:58:51 WEST" depends-on-methods="test.EndToEnd2Test.step06_goodReceipt" duration-ms="200871" status="PASS">
+        <test-method signature="step07_invoice()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:15:47 WEST" name="step07_invoice" description="TC-E2E2-07: Send invoice email and process invoice" finished-at="2026-04-17T16:22:23 WEST" depends-on-methods="test.EndToEnd2Test.step06_goodReceipt" duration-ms="395618" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step07_invoice -->
-        <test-method is-config="true" signature="closeSuite()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:58:51 WEST" name="closeSuite" finished-at="2026-04-17T14:58:52 WEST" duration-ms="1249" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeSuite -->
-        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T14:58:51 WEST" name="captureResultOnFailure" finished-at="2026-04-17T14:58:51 WEST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="captureResultOnFailure(org.testng.ITestResult)[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:22:23 WEST" name="captureResultOnFailure" finished-at="2026-04-17T16:22:23 WEST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -124,6 +120,10 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureResultOnFailure -->
+        <test-method is-config="true" signature="closeSuite()[pri:0, instance:test.EndToEnd2Test@666b83a4]" started-at="2026-04-17T16:22:23 WEST" name="closeSuite" finished-at="2026-04-17T16:22:25 WEST" duration-ms="1535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSuite -->
       </class> <!-- test.EndToEnd2Test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

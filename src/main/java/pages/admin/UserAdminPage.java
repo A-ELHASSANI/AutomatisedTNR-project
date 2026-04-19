@@ -151,7 +151,7 @@ public class UserAdminPage extends BasePage {
 
 		wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector(".loading, .spinner, .overlay")));
 
-		By activityBtn = By.xpath("//button[.//b[contains(normalize-space(),'Items from supplier with in cgi france')]]");
+		By activityBtn = By.xpath("//button[.//b[contains(normalize-space(),'Items from cgi fran')]]");
 		
 		WebElement btn = wait.until(ExpectedConditions.elementToBeClickable(activityBtn));
 

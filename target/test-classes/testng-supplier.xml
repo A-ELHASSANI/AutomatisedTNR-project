@@ -2,6 +2,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Supplier Suite">
   <test name="Supplier Tests">
-    <classes><class name="supplier.SupplierTest"/></classes>
+    <classes><class name="test.SupplierTest"/></classes>
   </test>
 </suite>

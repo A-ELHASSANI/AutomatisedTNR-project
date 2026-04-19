@@ -49,7 +49,7 @@ public class EndToEnd2Test extends BaseTest {
 	public void setUp() throws InterruptedException {
 		super.initSuite();
 
-		// Read all test data from config.properties — nothing hardcoded
+		// Read all test data from config.properties 
 		description = config.get("e2e.requisition.description");
 		description2 = config.get("e2e.requisition.description2");
 		supplier = config.get("e2e.requisition.supplier");
@@ -99,7 +99,6 @@ public class EndToEnd2Test extends BaseTest {
 	public void step02_submitForApproval() {
 		startTest("TC-E2E2-02: Submit for approval");
 
-		// Open basket and enrich header
 		requisitionBasket.openBasket();
 		pause(2000);
 		requisitionBasket.addAttachment(attachmentPath);
@@ -189,14 +188,13 @@ public class EndToEnd2Test extends BaseTest {
 			, dependsOnMethods = "step06_goodReceipt")
 	public void step07_invoice() throws Exception {
 		startTest("TC-E2E2-07: Invoice");
-		// Capture PO number from message bar
+		// Capture PO number
 		poNumber = userAdmin.getPOnumber();
 		log.info("PO Number: {}", poNumber);
 
 		// Send invoice email with the PO number
 		emailSender.sendInvoiceEmail(poNumber);
-		pause(90000);
-		// Act as invoice user
+		pause(20000);
 		userAdmin.actAsUser(invoiceUser);
 		pause(10000);
 

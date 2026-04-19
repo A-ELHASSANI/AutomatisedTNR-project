@@ -2,6 +2,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Purchase Order Suite">
   <test name="Purchase Order Tests">
-    <classes><class name="purchaseorder.PurchaseOrderTest"/></classes>
+    <classes><class name="test.PurchaseOrderTest"/></classes>
   </test>
 </suite>

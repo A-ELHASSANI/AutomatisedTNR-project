@@ -2,6 +2,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Admin Suite">
   <test name="System Admin Tests">
-    <classes><class name="admin.SystemAdminTest"/></classes>
+    <classes><class name="test.SystemAdminTest"/></classes>
   </test>
 </suite>

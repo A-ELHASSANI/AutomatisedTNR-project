@@ -2,6 +2,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Invoice Suite">
   <test name="Invoice Tests">
-    <classes><class name="invoice.InvoiceTest"/></classes>
+    <classes><class name="test.InvoiceTest"/></classes>
   </test>
 </suite>

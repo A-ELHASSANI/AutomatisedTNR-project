@@ -2,6 +2,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Requisition Suite">
   <test name="Requisition Tests">
-    <classes><class name="requisition.RequisitionTest"/></classes>
+    <classes><class name="test.RequisitionTest"/></classes>
   </test>
 </suite>
